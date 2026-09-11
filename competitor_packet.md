@@ -3,7 +3,7 @@
 # Competitor Packet
 Here's what to expect in a competitor's information packet.
 
-## Table of Radio Channels and 
+## Table of Radio Channels and Standard Times
 The list of radio channels and operating modes will be published prior to the event, but competitors will get a reference table in their packet. Individual event standard times for setup, check-in, and pack up are also listed on this table.
 
 ## Table of Operating Locations

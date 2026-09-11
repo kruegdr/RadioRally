@@ -37,7 +37,7 @@ Here are some ideas for bands and channels.
 **VHF / UHF**
 
 | Band | FM Voice | DMR Voice | SSB Voice | APRS | JS8Call | VARA FM | VARA HF | MT63 | Meshcore |
-| ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 10 m |E|C|E|M|E|M|M|M|N/A|
 | 6 m |E|C|E|E|E|E|M|M|N/A|
 | 2 m |E|E|C|E|E|E|N/A|M|N/A|
@@ -47,7 +47,7 @@ Here are some ideas for bands and channels.
 **HF**
 
 | Band | SSB Voice | JS8Call | RTTY | HELL | Winlink |
-| ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 6 m |E|E|E|M|M|
 | 10 m |E|E|E|E|M|
 | 40 m |M|E|C|C|M|

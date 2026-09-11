@@ -64,7 +64,7 @@ Example:
 If you're not sure how to structure an event, start with a county-wide 3 x 1 event.
 
 ## Operating Locations
-Within the area of operations, select enough operating locations to have a good balance of familiar locations (larger parks and public areas) and lesser known locations (roadside and rural parks). Do not go below 30 operating locations per 1,000 sq miles. 30 locations provides just enough uncertainty for participants on where they will operate. Add more sites if they provide a good radio, trivia, or geographic challenge. Do not exceed 70 operating locations per 1,000 sq miles, as managing the data and tasks for the event become burdensome at that level.
+Within the area of operations, select enough operating locations to have a good balance of familiar locations (larger parks and public areas) and lesser known locations (roadside and rural parks). Do not go below 30 operating locations per 1,000 sq miles. 30 locations provides just enough uncertainty for participants on where they will operate. 30 locations also provides for about eight teams without duplicating locations. Add more sites if they provide a good radio, trivia, or geographic challenge. Add more sites if you wish to host more than eight teams. Do not exceed 70 operating locations per 1,000 sq miles, as managing the data and tasks for the event become burdensome at that level.
 
 <img src="operating_locations.png" alt="Logo" width="800">
 

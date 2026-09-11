@@ -4,8 +4,6 @@ Radio Rally
 =
 Radio Rally is a portable operating event for teams of amateur radio operators in a local area or region to develop and test skills used in contesting and emergency communications.
 
-Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 
-
 Event Organizing
 =
 This section is for resources for event organizers. Organizers should have redundancies in nearly every area to ensure smooth event operation.
@@ -101,4 +99,4 @@ Authentication
 ==
 To ensure net control is speaking with the corect team, each team is issued a unique authentication table at the beginning of the event. Use the provided spreadsheet to generate an authentication table. Copy-and paste the table as an image into the information packet for the teams.
 
-
+Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 

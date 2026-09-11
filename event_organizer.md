@@ -3,6 +3,8 @@
 # Event Organizing
 This section is for resources for event organizers. Organizers should have redundancies in nearly every area to ensure smooth event operation.
 
+Use the [event planning spreadsheet](./radio_rally_planning.ods) to plan and operate the event.
+
 ## Area of Operations
 First, design your event around a core geographic area and the bands you plan to use.
 

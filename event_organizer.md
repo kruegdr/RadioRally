@@ -4,7 +4,7 @@
 This section is for resources for event organizers. Organizers should have redundancies in nearly every area to ensure smooth event operation.
 
 ## Area of Operations
-First, design your event around a geographic area and the bands you plan to use.
+First, design your event around a core geographic area and the bands you plan to use.
 
 Half-day county-wide events on VHF/UHF generally cover 1,000 sqare miles, or about 32 miles x 32 miles. Shoot for a maximum 20-25 minute drive in either direction from the core.
 

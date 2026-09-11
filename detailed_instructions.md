@@ -1,4 +1,4 @@
-![image](./Logo_RadioRally_Positive.PNG)
+<img src="Logo_RadioRally_Positive.png" alt="Logo" width="500">
 
 Radio Rally
 =
@@ -40,28 +40,28 @@ Arrive early at the HQ. The briefing will start on time. During the briefing the
 Packet contents
 ==
 
-![image](./instructions_01.png)
+<img src="instructions_01.png" alt="Logo" width="800">
 
 Look up transit time from the table
 
-![image](./instructions_02.png)
+<img src="instructions_02.png" alt="Logo" width="800">
 
 Add the bogey time. The bogey time is set by the organizer to adjust for weather or other factors affecting travel times.
 
-![image](./instructions_03.png)
+<img src="instructions_03.png" alt="Logo" width="800">
 
 Calculate the start of the set-up window
 
-![image](./instructions_04.png)
+<img src="instructions_04.png" alt="Logo" width="800">
 
 Calculate the start of the check in window
 
-![image](./instructions_05.png)
+<img src="instructions_05.png" alt="Logo" width="800">
 
 Calculate the end of the check in window
 
-![image](./instructions_06.png)
-![image](./instructions_07.png)
+<img src="instructions_06.png" alt="Logo" width="800">
+<img src="instructions_07.png" alt="Logo" width="800">
 
 Transit
 ==
@@ -79,12 +79,12 @@ Choose a channel where you will call net control and complete your check-in with
 
 **Net Control:** “Roger, Team QRM, please authenticate three-eight.”
 
-![image](./instructions_08.png)
+<img src="instructions_08.png" alt="Logo" width="800">
 
 Now look down on row 3, and over to column 8. Respond with the indicated letter.
 
-![image](./instructions_09.png)
-![image](./instructions_10.png)
+<img src="instructions_09.png" alt="Logo" width="800">
+<img src="instructions_10.png" alt="Logo" width="800">
 
 **Team:** “Net control, Team QRM authenticates Whiskey.”
 
@@ -96,7 +96,7 @@ Now look down on row 3, and over to column 8. Respond with the indicated letter.
 
 **Team:** “All correct, Team QRM out.”
 
-![image](./instructions_11.png)
+<img src="instructions_11.png" alt="Logo" width="800">
 
 Copy the OK time into the box between the check-in section and the task section.
 
@@ -104,7 +104,7 @@ Task
 ==
 Among your task envelopes, locate the envelopes for your current location and the task indicated by net control. Only open the correct envelope. Teams must turn unused and unopened envelopes back in to net control or will be penalized.
 
-![image](./instructions_12.png)
+<img src="instructions_12.png" alt="Logo" width="800">
 
 Remove the paper inside and record the task duration and determine your response window. Search the local area for the answer and reply to net control within that window. Use the following script as a guide to communicate with net control.
 
@@ -126,14 +126,14 @@ Remove the paper inside and record the task duration and determine your response
 
 **Team:** “All correct, Team QRM out.”
 
-![image](./instructions_13.png)
+<img src="instructions_13.png" alt="Logo" width="800">
 
 Pack Up
 ==
 
 With the OK time from net control and the pack up time in your packet, calculate the end time of the stage. The end time of the stage can then be copied to the beginning time on the next stage sheet.
 
-![image](./instructions_14.png)
+<img src="instructions_14.png" alt="Logo" width="800">
 
 Now you can pack up your station and clean up any trash or other materials. Be sure to leave the area better than you found it!
 

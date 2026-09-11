@@ -51,8 +51,7 @@ Here are some ideas for bands and channels.
 | 60 m |C|C|C|C|C|
 | 80 m |C|C|C|C|C|
 
-Event Format
-==
+## Event Format
 Select a format of your event based on tasks and operating locations using the M x N format.
 - M = number of operating locations
 - N = number of tasks per operating location
@@ -64,8 +63,7 @@ Example:
 
 If you're not sure how to structure an event, start with a county-wide 3 x 1 event.
 
-Operating Locations
-==
+## Operating Locations
 Within the area of operations, select enough operating locations to have a good balance of familiar locations (larger parks and public areas) and lesser known locations (roadside and rural parks). Do not go below 30 operating locations per 1,000 sq miles. 30 locations provides just enough uncertainty for participants on where they will operate. Add more sites if they provide a good radio, trivia, or geographic challenge. Do not exceed 70 operating locations per 1,000 sq miles, as managing the data and tasks for the event become burdensome at that level.
 
 <img src="operating_locations.png" alt="Logo" width="800">

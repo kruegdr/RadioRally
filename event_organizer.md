@@ -1,9 +1,5 @@
 <img src="Logo_RadioRally_Positive.png" alt="Logo" width="500">
 
-Radio Rally
-=
-Radio Rally is a portable operating event for teams of amateur radio operators in a local area or region to develop and test skills used in contesting and emergency communications.
-
 Event Organizing
 =
 This section is for resources for event organizers. Organizers should have redundancies in nearly every area to ensure smooth event operation.

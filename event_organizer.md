@@ -71,7 +71,7 @@ Operating Locations
 ==
 Within the area of operations, select enough operating locations to have a good balance of familiar locations (larger parks and public areas) and lesser known locations (roadside and rural parks). Do not go below 30 operating locations per 1,000 sq miles. 30 locations provides just enough uncertainty for participants on where they will operate. Add more sites if they provide a good radio, trivia, or geographic challenge. Do not exceed 70 operating locations per 1,000 sq miles, as managing the data and tasks for the event become burdensome at that level.
 
-![image](./operating_locations.PNG)
+<img src="operating_locations.png" alt="Logo" width="800">
 
 Use this spreadsheet to organize and operate your event.
 INSERT LINK TO OPS SPREADSHEET

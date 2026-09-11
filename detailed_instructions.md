@@ -2,7 +2,7 @@
 
 # Stage Instructions
 
-##Preparation
+## Preparation
 
 1. Assemble your crew
 

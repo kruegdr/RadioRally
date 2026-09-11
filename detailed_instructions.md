@@ -1,16 +1,13 @@
 <img src="Logo_RadioRally_Positive.png" alt="Logo" width="500">
 
-Radio Rally
-=
+# Radio Rally
 Radio Rally is a portable operating event for teams of amateur radio operators in a local area or region to develop and test skills used in contesting and emergency communications.
 
 Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 
 
-Stage Instructions
-=
+# Stage Instructions
 
-Preparation
-==
+##Preparation
 
 1. Assemble your crew
 
@@ -30,15 +27,12 @@ Review the event channels and modes as they relate to the operating locations. W
 
 Review all your gear and make sure it is packable and portable. Do you have enough spares incase something happens?
 
-Day-of-Event
-==
+## Day-of-Event
 
-Briefing
-===
+### Briefing
 Arrive early at the HQ. The briefing will start on time. During the briefing the event organizer will go over the event format and schedule and answer questions. Approximately ten minutes before the designated start time, the organizer will issue each team a packet of operating instructions and a list of their operating locations. At this time, the team plans their route to the location and calculates their arrival time and check in window.
 
-Packet contents
-==
+## Packet contents
 
 <img src="instructions_01.png" alt="Logo" width="800">
 
@@ -63,12 +57,10 @@ Calculate the end of the check in window
 <img src="instructions_06.png" alt="Logo" width="800">
 <img src="instructions_07.png" alt="Logo" width="800">
 
-Transit
-==
+## Transit
 After you have calculated your check in window, your team will travel to the operating location. Use a mapping program of your choice. Obey all traffic laws and do not drive distracted.
 
-Check-in
-==
+## Check-in
 Choose a channel where you will call net control and complete your check-in within your time window. There is not a rigid format, but this script will help:
 
 **Team:** “Radio Rally Net Control this is KI4RXJ calling for Team QRM.”
@@ -100,8 +92,7 @@ Now look down on row 3, and over to column 8. Respond with the indicated letter.
 
 Copy the OK time into the box between the check-in section and the task section.
 
-Task
-==
+## Task
 Among your task envelopes, locate the envelopes for your current location and the task indicated by net control. Only open the correct envelope. Teams must turn unused and unopened envelopes back in to net control or will be penalized.
 
 <img src="instructions_12.png" alt="Logo" width="800">
@@ -128,8 +119,7 @@ Remove the paper inside and record the task duration and determine your response
 
 <img src="instructions_13.png" alt="Logo" width="800">
 
-Pack Up
-==
+## Pack Up
 
 With the OK time from net control and the pack up time in your packet, calculate the end time of the stage. The end time of the stage can then be copied to the beginning time on the next stage sheet.
 
@@ -137,8 +127,7 @@ With the OK time from net control and the pack up time in your packet, calculate
 
 Now you can pack up your station and clean up any trash or other materials. Be sure to leave the area better than you found it!
 
-Debriefing
-==
+## Debriefing
 After the last stage is completed, teams will drive to the event headquarters. The organizer will design each team's schedule so all teams arrive at the headquarters for debriefing within approximately five to ten minutes of each other.
 
 Upon arrival, turn your materials in to the organizer. The organizer will ask you to fill out a brief survey to help make the next event better. When all teams have arrived, the debriefing will start. Each team will have a designee share what they learned, what went well, and what could be improved. 

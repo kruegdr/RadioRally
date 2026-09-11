@@ -71,7 +71,7 @@ Within the area of operations, select enough operating locations to have a good 
 Use this spreadsheet to organize and operate your event.
 INSERT LINK TO OPS SPREADSHEET
 
-## Tasks
+## Competitor Tasks
 For each location, have at least four tasks that can be completed by teams. Tasks should test observational, measurement, or communication skills. Examples of tasks include:
 
 - Reading information off of a historical marker or sign.
@@ -87,5 +87,8 @@ For each location, have at least four tasks that can be completed by teams. Task
 
 ## Authentication
 To ensure net control is speaking with the corect team, each team is issued a unique authentication table at the beginning of the event. Use the provided spreadsheet to generate an authentication table. Copy-and paste the table as an image into the information packet for the teams.
+
+## Net Control and HQ Setup
+Several of your locations should be suitable to serve as HQ for an event. Try to locate them at shelters or buildings where picnic tables and bathrooms are available. Get at least two others to help you run the event and run net control. You will need to set up a temporary stations for all channels, and you should also have a backup plan for each station, including radio, coax, and antenna. Do not allow more than 5 people to participate in net control or organizing activities as this will complicate operations and decision making.
 
 Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 

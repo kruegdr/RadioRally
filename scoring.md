@@ -1,7 +1,6 @@
 <img src="Logo_RadioRally_Positive.png" alt="Logo" width="500">
 
-Scoring
-=
+# Scoring
 
 | Metric | +3 Points | +2 Points | +1 Point | 0 Points | Penalty |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |

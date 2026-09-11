@@ -1,4 +1,5 @@
 ![image](./Logo_RadioRally_Positive.PNG)
+<img src="Logo_RadioRally_Positive.PNG" alt="Logo" width="500">
 
 Radio Rally
 =

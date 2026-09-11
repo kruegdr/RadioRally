@@ -16,7 +16,7 @@ City-wide events are approximately 100 square miles, or 10 miles x 10 miles. Try
 
 In either case, the area doesn't have to be square. Adjust the area as needed.
 
-<img src="area_of_operations.png" alt="Logo" width="500">
+<img src="area_of_operations.png" alt="Logo" width="900">
 
 Bands
 ==

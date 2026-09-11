@@ -33,7 +33,8 @@ In their time window, teams contact net control on one of the official event rad
 
 ## Task
 During check-in, net control indicates which task a team should perform at their location. Teams open the appropriate sealed envelope to reveal a simple scavenger-hunt-like task and an allotted time window to complete the task. Teams will communicate their response to net control and net control will respond with an official time and the team's next operating location.
-<img src="instructions_12.png" alt="Logo" width="300">
+<img src="instructions_12.png" alt="Logo" width="500">
+
 <img src="new_franklin.png" alt="Logo" width="300">
 
 ## Take-down

@@ -15,6 +15,8 @@ Events are announced with a minimum of one to two months lead time. The event an
 
 [Event organizers, click here.](event_organizer.md)
 
+<img src="area_of_operations.png" alt="Logo" width="500">
+
 A Radio Rally begins with a team briefing at the event headquarters and the event is conducted over multiple stages. A typical half-day event has three stages but can be adjusted by the organizer as desired. Every stage has the same structure: transit, set-up, check-in, task, and take-down. Upon completion of the stages, all teams return to the event headquarters to debrief and socialize with other teams.
 
 Below is a quick overview. For detailed instructions, [click here.](detailed_instructions.md)

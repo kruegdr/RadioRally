@@ -1,11 +1,5 @@
 <img src="Logo_RadioRally_Positive.png" alt="Logo" width="500">
 
-Radio Rally
-=
-Radio Rally is a portable operating event for teams of amateur radio operators in a local area or region to develop and test skills used in contesting and emergency communications.
-
-Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 
-
 Competitor Packet
 =
 Here's what to expect in a competitor's information packet.
@@ -34,3 +28,4 @@ Task Envelopes
 ==
 Each team is provided with a set of task envelopes, specific to their assigned operating locations. Each envelope is sealed. For each stage check-in, net control will indicate which task envelope to open. To avoid a penalty, all teams must return unused and unopened task envelopes to net control.
 
+Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 

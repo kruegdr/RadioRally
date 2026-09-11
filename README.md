@@ -26,16 +26,18 @@ At the team briefing, the event organizer reviews the structure and rules of the
 Once the operating locations are released, each team uses the packet of operating instructions to plan a route to their first location and calculate their scheduled arrival time and their check-in window with net control.
 
 ## Set-up
-Upon arrival at the operating location, teams are given an alotted setup time. Teams may use this time to set up their station and survey the area before their check-in window.
+Upon arrival at the operating location, teams are given an allotted setup time. Teams may use this time to set up their station and survey the area before their check-in window.
 
 ## Check-in
 In their time window, teams contact net control on one of the official event radio channels and operating modes. Net control will authenticate the team, respond with the official time, and indicate which task must be performed by the team.
 
 ## Task
-During check-in, net control indicates which task a team should perform at their location. Teams open the appropriate sealed envelope to reveal a simple scavenger-hunt-like task and an alotted time window to complete the task. Teams will communicate their response to net control and net control will respond with an offical time and the team's next operating location.
+During check-in, net control indicates which task a team should perform at their location. Teams open the appropriate sealed envelope to reveal a simple scavenger-hunt-like task and an allotted time window to complete the task. Teams will communicate their response to net control and net control will respond with an official time and the team's next operating location.
+<img src="instructions_12.png" alt="Logo" width="500">
+<img src="new_franklin.png" alt="Logo" width="500">
 
 ## Take-down
-After the task is communicated to net control, teams are alotted time for takedown of their station. This alotted time is used to determine the departure time to begin the next stage. This process repeats for each stage until the last stage, when teams return to the event headquarters.
+After the task is communicated to net control, teams are allotted time for takedown of their station. This allotted time is used to determine the departure time to begin the next stage. This process repeats for each stage until the last stage, when teams return to the event headquarters.
 
 ## Debriefing
 After their last stage, teams transit to the event headquarters to debrief on what went well and what could improve with their preparations and with the event operations. Teams can socialize while scores are tallied, and the organizer can recognize and reward the highest [scoring team](scoring.md).

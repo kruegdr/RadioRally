@@ -1,11 +1,9 @@
 <img src="Logo_RadioRally_Positive.png" alt="Logo" width="500">
 
-Event Organizing
-=
+# Event Organizing
 This section is for resources for event organizers. Organizers should have redundancies in nearly every area to ensure smooth event operation.
 
-Area of Operations
-==
+## Area of Operations
 First, design your event around a geographic area and the bands you plan to use.
 
 Half-day county-wide events on VHF/UHF generally cover 1,000 sqare miles, or about 32 miles x 32 miles. Shoot for a maximum 20-25 minute drive in either direction from the core.
@@ -18,8 +16,7 @@ In either case, the area doesn't have to be square. Adjust the area as needed.
 
 <img src="area_of_operations.png" alt="Logo" width="900">
 
-Bands
-==
+## Bands
 Select bands that are accessible to your participants, and order them from most difficult to least difficult. Don't forget that technicians can also use 10 meters and 6 meters! Teams can score more points using the more challenging primary channel.
 
 - **Primary Channel** : Select the primary channel that is a reasonable challenge to operators. For example, if your club is trying to promote DMR, make the primary channel DMR.
@@ -76,8 +73,7 @@ Within the area of operations, select enough operating locations to have a good 
 Use this spreadsheet to organize and operate your event.
 INSERT LINK TO OPS SPREADSHEET
 
-Tasks
-==
+## Tasks
 For each location, have at least four tasks that can be completed by teams. Tasks should test observational, measurement, or communication skills. Examples of tasks include:
 
 - Reading information off of a historical marker or sign.
@@ -91,8 +87,7 @@ For each location, have at least four tasks that can be completed by teams. Task
 - Use the radio for a specific task.
 > "A low-power transmitter is hidden near this location and is tuned to 146.400 MHz. The transmitter reports temperature and time every seven minutes by a voice message. Record a transmission within your window and transmit the results back to net control."
 
-Authentication
-==
+## Authentication
 To ensure net control is speaking with the corect team, each team is issued a unique authentication table at the beginning of the event. Use the provided spreadsheet to generate an authentication table. Copy-and paste the table as an image into the information packet for the teams.
 
 Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 

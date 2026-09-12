@@ -41,7 +41,7 @@ During check-in, net control indicates which task a team should perform at their
 <img src="new_franklin.png" alt="Logo" width="300">
 
 ## Take-down
-After the task is communicated to net control, teams are allotted time for takedown of their station. This allotted time is used to determine the departure time to begin the next stage. This process repeats for each stage until the last stage, when teams return to the event headquarters.
+After the task response is communicated to net control, teams are allotted time for takedown of their station. This allotted time is used to determine the departure time to begin the next stage. This process repeats for each stage until the last stage, when teams return to the event headquarters.
 
 ## Debriefing
 After their last stage, teams transit to the event headquarters to debrief on what went well and what could improve with their preparations and with the event operations. Teams can socialize while scores are tallied, and the organizer can recognize and reward the highest [scoring team](scoring.md).

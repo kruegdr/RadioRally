@@ -5,7 +5,7 @@ This section is for resources for event organizers. Organizers should have redun
 
 Use the [event planning spreadsheet](./radio_rally_planning.ods) to plan and operate the event. (LibreOffice ODS file)
 
-## Area of Operations
+## 1. Area of Operations
 First, design your event around a core geographic area and the bands you plan to use.
 
 Half-day county-wide events on VHF/UHF generally cover 1,000 sqare miles, or about 32 miles x 32 miles. Shoot for a maximum 20-25 minute drive in either direction from the core.
@@ -18,7 +18,7 @@ In either case, the area doesn't have to be square. Adjust the area as needed.
 
 <img src="area_of_operations.png" alt="Logo" width="900">
 
-## Bands
+## 2. Bands
 Select bands that are accessible to your participants, and order them from most difficult to least difficult. Don't forget that technicians can also use 10 meters and 6 meters! Teams can score more points using the more challenging primary channel.
 
 - **Primary Channel** : Select the primary channel that is a reasonable challenge to operators. For example, if your club is trying to promote DMR, make the primary channel DMR.

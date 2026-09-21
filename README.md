@@ -8,6 +8,13 @@ Radio Rally was developed over 2025 and 2026 by Darrell Krueger, KI4RXJ, as a fu
 
 Radio Rally was inspired by the RaDAR concept created by ZS6BNE in South Africa and promoted in the USA by N4KGL.
 
+Radio Rally challenges operators in the following ways:
+**Mobile and Portable Operations** are important for certain types of contests and during emergencies when primary communications are down. Radio operators may need to quickly set up a station in an unfamiliar location.
+**Geography**: Unfamiliar locations require a good sense of geography. Radio Rally uses a list of public operating locations in a given operating area for teams to navigate to and from.
+**Time** is also a critical element of communication. Radio Rally challenges teams by requiring calculation of their communication window times. Manual time calculations, printed tables, and paper logs may be the only way to handle information during an emergency.
+**Accuracy and Clarity**: RadioRally challenges operators' accuracy and clarity in communication. The correct response may look or sound similar to other incorrect responses, or the response may be a tongue-twister and a challenge to speak clearly over the air.
+**Teamwork**: Finally, RadioRally encourages teamwork. Teams are a great way to pool resources, share information, and make connections between more experienced and less experienced operators.
+
 Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 
 
 # Operation

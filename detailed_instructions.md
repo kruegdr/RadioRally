@@ -102,7 +102,7 @@ Remove the paper inside and record the task duration and determine your response
 
 **Net Control:** “Roger, Team QRM, ready to copy Task Bravo.”
 
-**Team:** “Net control, Task Charlie response is New Franklin, MO.”
+**Team:** “Net control, Task Bravo response is New Franklin, MO.”
 
 **Net Control:** “Net control acknowledges Bravo response New Franklin, MO as correct from Team QRM at 09:31. Your next location is 40, Four-Zero.”
 

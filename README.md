@@ -9,6 +9,7 @@ Radio Rally was developed over 2025 and 2026 by Darrell Krueger, KI4RXJ, as a fu
 Radio Rally was inspired by the RaDAR concept created by ZS6BNE in South Africa and promoted in the USA by N4KGL.
 
 Radio Rally challenges operators in the following ways:
+
 **Mobile and Portable Operations** are important for certain types of contests and during emergencies when primary communications are down. Radio operators may need to quickly set up a station in an unfamiliar location.
 
 **Geography**: Unfamiliar locations require a good sense of geography. Radio Rally uses a list of public operating locations in a given operating area for teams to navigate to and from.

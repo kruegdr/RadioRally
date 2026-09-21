@@ -53,7 +53,7 @@ Here are some ideas for bands and channels.
 | 60 m |C|C|C|C|C|
 | 80 m |C|C|C|C|C|
 
-## Event Format
+## 3. Event Format
 Select a format of your event based on tasks and operating locations using the M x N format.
 - M = number of operating locations
 - N = number of tasks per operating location
@@ -65,32 +65,51 @@ Example:
 
 If you're not sure how to structure an event, start with a county-wide 3 x 1 event.
 
-## Operating Locations
+## 4. Operating Locations
 Within the area of operations, select enough operating locations to have a good balance of familiar locations (larger parks and public areas) and lesser known locations (roadside and rural parks). Do not go below 30 operating locations per 1,000 sq miles. 30 locations provides just enough uncertainty for participants on where they will operate. 30 locations also provides for about eight teams without duplicating locations. Add more sites if they provide a good radio, trivia, or geographic challenge. Add more sites if you wish to host more than eight teams. Do not exceed 70 operating locations per 1,000 sq miles, as managing the data and tasks for the event become burdensome at that level.
 
 <img src="operating_locations.png" alt="Logo" width="800">
 
 Use this spreadsheet to organize and operate your event.
-INSERT LINK TO OPS SPREADSHEET
+[event planning spreadsheet](./radio_rally_planning.ods)
 
-## Competitor Tasks
-For each location, have at least four tasks that can be completed by teams. Tasks should test observational, measurement, or communication skills. Examples of tasks include:
+## 4. Check In and Tasks
+### Check In
+For each location, a team must check in within their window. Teams do not have to be exactly at the location for successful check in, but the important thing is that they check in on time. To ensure net control is speaking with the correct team, each team is issued a unique authentication table at the beginning of the event. Use the provided spreadsheet to generate an authentication table. Copy-and paste the table as an image into the information packet for the teams. Check ins are recorded by net control, and an official time is given to the team.
 
-- Reading information off of a historical marker or sign.
+### Tasks
+For each location, have a minimum of four tasks that can be completed by teams. More variety is better. Tasks should fall under the following categories:
+1. Observation
+2. Measurement
+3. Communication
+
+#### Observation
+Observation tasks require a team to carefully observe their surroundings and report on their findings. For example, a team may need to find a historical marker, sign, or other object and report on what is displayed.
 > "According to the historical marker nearby, who was the last serving postmaster of the town? (J.T. McMillan)
-- Record observations
 > "At this location, there is a picnic shelter. How many picnic tables are under the shelter?" (Eight Picnic Tables)
-- Take physical measurements
+> "At this location, there is a sign indicating the operator of the quarry. What is the telephone number of the quarry office? (785-555-3182)
+
+#### Measurement
+Measurement tasks require a team to physically interact with something in their surroundings. A measurement might require a tape measure, inclinometer, or other tool. Organizers may elect to provide the tool or have the teams provide their own.
 > "Using the provided tape measure, what is the the inside width (in inches) of the footpath bridge at this location? (72 inches)
-- Record and repeat complex information.
-> "At this location there is a unique club flyer posted on the bulletin board. What is the phrase written at the bottom of the flyer?" ("A proper copper coffee pot.")
-- Use the radio for a specific task.
-> "A low-power transmitter is hidden near this location and is tuned to 146.400 MHz. The transmitter reports temperature and time every seven minutes by a voice message. Record a transmission within your window and transmit the results back to net control."
+> "Using the provided inclinometer, what is the angle of the boat ramp as measured just above the water line? (10 degrees from horizontal)
 
-## Authentication
-To ensure net control is speaking with the corect team, each team is issued a unique authentication table at the beginning of the event. Use the provided spreadsheet to generate an authentication table. Copy-and paste the table as an image into the information packet for the teams.
+#### Communication
+Communication tasks require a team to handle complex information or retrieve information from another source.
+> Tongue Twister - "At this location there is a unique club flyer posted on the bulletin board. What is the phrase written at the bottom of the flyer?" ("A proper copper coffee pot.")
+> Similar Sounds - "Which statement on your task card matches what is found posted at your location?"
+- "Sixteen characters make up hexadecimal numbers"
+- "Sixty caricatures make up ecumenical blunders"
+- "Thrifty managers take up influential wonders"
+- "Screened inheritors take up rebuttal plunders"
+> Radio Relay - use your radio to relay information from another station
+- "Near this location is a hidden transmitter tuned to 146.400 MHz. The transmitter reports temperature and time every seven minutes by voice message. Listen for the transmission and record the time and temperature. Report the results back to net control.
+- "Near this location is a hidden transmitter tuned to 446.400 MHz. Key up your radio on the channel and dial "1617" on your keypad to trigger a response. Record the response and report the response to net control."
+- "Near this location is another amateur radio operator, KI4RXJ, who is monitoring 146.400 MHz. Make contact with them and ask for the mileage on their vehicle. Report this number back to net control." 
 
-## Net Control and HQ Setup
+## 5. Net Control and HQ Setup
 Several of your locations should be suitable to serve as HQ for an event. Try to locate them at shelters or buildings where picnic tables and bathrooms are available. Get at least two others to help you run the event and run net control. You will need to set up a temporary stations for all channels, and you should also have a backup plan for each station, including radio, coax, and antenna. Do not allow more than 5 people to participate in net control or organizing activities as this will complicate operations and decision making.
+
+If you set up a mobile HQ be sure you have plenty of solar, battery, or generator power to last the entire day. Use a program like Radio Mobile to simulate the radio links between your station and your operating locations. Make the link a challenge, but don't make it too hard.
 
 Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 

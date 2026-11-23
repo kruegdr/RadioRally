@@ -6,7 +6,7 @@ Radio Rally is a portable operating event for teams of amateur radio operators i
 # Intro 
 Radio Rally was developed over 2025 and 2026 by Darrell Krueger, KI4RXJ, as a fun and friendly team competition incorporating elements of amateur radio contests, portable operating, time-speed-distance (TSD) rallying, and emergency communications. Events are designed to be run by local radio clubs and can be easily scaled by time, geography, and radio license class.
 
-Radio Rally was inspired by the RaDAR concept created by ZS6BNE in South Africa and promoted in the USA by N4KGL.
+Radio Rally was inspired by the RaDAR concept created by ZS6BNE in South Africa and promoted in the USA by N4KGL and other similar events by K8DC & K8DCL and N3ID & K3DI.
 
 Radio Rally challenges operators in the following ways:
 

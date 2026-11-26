@@ -45,9 +45,9 @@ Here are some ideas for bands and channels.
 | 10 m |E|C|E|M|E|M|M|M|N/A|
 | 6 m |E|C|E|E|E|E|M|M|N/A|
 | 2 m |E|E|C|E|E|E|N/A|M|N/A|
-| MURS |E|N/A|N/A|N/A|N/A|N/A|N/A|M|N/A|
+| MURS |E|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
 | 70 cm |E|E|C|E|E|E|N/A|M|N/A|
-| FRS / GMRS |E|N/A|N/A|N/A|N/A|N/A|N/A|M|N/A|
+| FRS / GMRS |E|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
 | 33 cm |C|C|C|C|C|C|N/A|C|E|
 
 **HF**

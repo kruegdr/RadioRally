@@ -6,6 +6,10 @@ This section is for resources for event organizers. Organizers should have redun
 Use the [event planning spreadsheet](./radio_rally_planning.ods) to plan and operate the event. (LibreOffice ODS file)
 
 ## Planning
+Note, planning on the front end for your first event will take some time, but once your area of operations and your operating locations are set, you will spend much less time planning subsequent events. Consider it an investment in the club!
+
+If you have not planned an event before, give yourself 6-12 months of planning time. This will let you do your planning in small, digestible chunks, and not have a panic a month before the event is scheduled. Once you have a list of operating locations and basic tasks, you can shorten your planning window down to 2-4 months lead time.
+
 ### Area of Operations
 **1. Define a core area for your area of operations (AO)**.
 
@@ -23,7 +27,23 @@ Use the [event planning spreadsheet](./radio_rally_planning.ods) to plan and ope
 
 <img src="area_of_operations.png" alt="Logo" width="900">
 
-### 2. Channels and Modes
+### Operating Locations
+**1. Draft a list of operating locations (OL)**
+  
+  Within the AO, develop a draft list of operating locations. If you are a team of organizers, create your list in a shared Google Earth space so everyone can contribute. Have a good balance of familiar locations (larger parks and public areas) and lesser known locations (roadside and rural parks). Make sure your draft list has 70-90 locations. Several of these will be culled down to a final list. 
+
+**2. Edit your list of OL's online**
+
+  Review all of your operating locations for suitability. Start your inspections with satellite imagery and street-view imagery. Evaluate basic accessibility, antenna clearances, open-hours, RF-environment, and options for competitor tasks.
+
+**3. Edit your list of OL's in person**
+
+  With your edited list of OL's, take 
+  Do not go below 50 operating locations per 1,000 sq miles. 50 locations provides just enough uncertainty for participants on where they will operate. 50 locations also provides for about eight teams without duplicating locations. Add more sites if they provide a good radio, trivia, or geographic challenge. Add more sites if you wish to host more than eight teams. Do not exceed 70-80 operating locations per 1,000 sq miles, as managing the data and tasks for the event become burdensome at that level.
+
+<img src="operating_locations.png" alt="Logo" width="800">
+
+### 4. Channels and Modes
 Select three channels that are accessible, of interest, and present a reasonable challenge to participants. Select modes that can challenge participants and are reasonably within capabilities of your participants. 
 
 * Primary : Most challenging.
@@ -61,10 +81,12 @@ Here are some ideas for bands and channels.
 | 60 m | C | C | C | C | C |
 | 80 m | C | C | C | C | C |
 
-## 3. Event Format
+### 3. Event Format
 Select a format of your event based on tasks and operating locations using the M x N format.
 - M = number of operating locations
 - N = number of tasks per operating location
+
+The most common format for half day events will likely be 3 x 1 or 4 x 1.
 
 Example:
 - A 3 x 1 event consists of three operating locations and one task to perform at each operating location at the given time.
@@ -73,10 +95,7 @@ Example:
 
 If you're not sure how to structure an event, start with a county-wide 3 x 1 event.
 
-## 4. Operating Locations
-Within the area of operations, select enough operating locations to have a good balance of familiar locations (larger parks and public areas) and lesser known locations (roadside and rural parks). Do not go below 30 operating locations per 1,000 sq miles. 30 locations provides just enough uncertainty for participants on where they will operate. 30 locations also provides for about eight teams without duplicating locations. Add more sites if they provide a good radio, trivia, or geographic challenge. Add more sites if you wish to host more than eight teams. Do not exceed 70 operating locations per 1,000 sq miles, as managing the data and tasks for the event become burdensome at that level.
 
-<img src="operating_locations.png" alt="Logo" width="800">
 
 Use this spreadsheet to organize and operate your event.
 [event planning spreadsheet](./radio_rally_planning.ods)

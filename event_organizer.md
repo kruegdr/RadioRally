@@ -130,6 +130,12 @@ Communication tasks require a team to handle complex information or retrieve inf
 - "Near this location is a hidden transmitter tuned to 446.400 MHz. Key up your radio on the channel and dial "1617" on your keypad to trigger a response. Record the response and report the response to net control."
 - "Near this location is another amateur radio operator, KI4RXJ, who is monitoring 146.400 MHz. Make contact with them and ask for the mileage on their vehicle. Report this number back to net control." 
 
+### Market the event
+Market your event (currently editing)
+
+# Event Operation
+
+(currently editing)
 ## 5. Net Control and HQ Setup
 Several of your locations should be suitable to serve as HQ for an event. Try to locate them at shelters or buildings where picnic tables and bathrooms are available. A minimum of two net control operators are required. As more teams are added, a total of three or four net control operators are required. You will need to set up a temporary station for all channels, and you should also have a backup plan for each station, including radio, coax, and antenna. Be sure to have a central table or workstation where at least two net controllers can operate. Do not allow more than 5 people to participate in net control or organizing activities as this will complicate operations and decision making. Be sure to make use of diplexers or triplexers if required to minimize the number of antenna deployments. 
 

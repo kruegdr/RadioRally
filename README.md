@@ -27,7 +27,7 @@ Continue scrolling down for a brief description of the event operation.
 
 Detailed information can be found in the links immediately below.
 
-$\Large \text{$[Event organizer details](event_organizer.md)}
+[Event organizer details](event_organizer.md)
 
 [Competitor details](detailed_instructions.md)
  

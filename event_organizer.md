@@ -43,7 +43,7 @@ Here are some ideas for bands and channels.
 | Band | FM Voice | DMR Voice | SSB Voice | APRS | JS8Call | VARA FM | VARA HF | MT63 | Meshcore |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 10 m |E|C|E|M|E|M|M|M|N/A|
-| 6 m |E|C|E|E|E|E|M|M|N/A|
+| 6 m |E|C|E|E|E|E|N/A|M|N/A|
 | 2 m |E|E|C|E|E|E|M|M|N/A|
 | MURS |E|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
 | 70 cm |E|E|C|E|E|E|N/A|M|N/A|

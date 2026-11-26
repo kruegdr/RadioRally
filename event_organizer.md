@@ -19,7 +19,7 @@ Use the [event planning spreadsheet](./radio_rally_planning.ods) to plan and ope
 
 * HF events using NVIS propagation generally cover larger areas. Shoot for about 6,000 square miles, or about 75 miles x 75 miles. Plan for a maximum 45-50 minute drive in either direction from the core. 
 
-* City-wide events are approximately 100 square miles, or 10 miles x 10 miles. Try to keep city-wide events with no more than 10 to 15 minutes of drive time between locations.
+* City-wide events with HT's or low power radios are approximately 100 square miles, or 10 miles x 10 miles or smaller. Try to keep city-wide events with no more than 10 to 15 minutes of travel time between locations.
 
 <img src="area_of_operations.png" alt="Logo" width="900">
 

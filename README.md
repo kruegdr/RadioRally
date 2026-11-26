@@ -1,7 +1,7 @@
 <img src="Logo_RadioRally_Positive.png" alt="Logo" width="500">
 
 # Radio Rally
-Radio Rally is a portable operating event for teams of amateur radio operators in a local area or region to develop and test skills used in contesting and emergency communications.
+Radio Rally is a field operating event for a local or regional area designed to test and develop radio, geography, and information handling skills for all types of operators.
 
 # Intro 
 Radio Rally was developed over 2025 and 2026 by Darrell Krueger, KI4RXJ, as a fun and friendly team competition incorporating elements of amateur radio contests, portable operating, time-speed-distance (TSD) rallying, and emergency communications. Events are designed to be run by local radio clubs and can be easily scaled by time, geography, and radio license class.

@@ -101,14 +101,12 @@ If you're not sure how to structure an event, start with a county-wide 3 x 1 eve
 For each location, a team must check in within their calculated communications window. Teams do not have to be exactly at the location for successful check in, but the important thing is that they check in on time. To ensure net control is speaking with the correct team, each team is issued a unique authentication table at the beginning of the event. Organizers are free to select other means of authentication, however an authentication table is usually the easiest. Use the planning spreadsheet to generate an authentication table. Copy-and paste the table as an image into the information packet for the teams.
 
 ### Tasks (Currently Editing)
-For each location, have a minimum of four tasks that can be completed by teams. More variety is better. Tasks should fall under the following categories:
-1. Observation
-2. Measurement
-3. Communication
+For each location, have a minimum of four tasks that can be completed by teams. More variety is better. Tasks should fall under the following categories: observation, measurement, retrieval, and communications.
 
 #### Observation
-Observation tasks require a team to carefully observe their surroundings and report on their findings. For example, a team may need to find a historical marker, sign, or other object and report on what is displayed.
-> "According to the historical marker nearby, who was the last serving postmaster of the town? (J.T. McMillan)
+Observation tasks require a team to carefully observe their surroundings and report on their findings.
+
+* Read signage > "According to the historical marker nearby, who was the last serving postmaster of the town? (J.T. McMillan)
 > "At this location, there is a picnic shelter. How many picnic tables are under the shelter?" (Eight Picnic Tables)
 > "At this location, there is a sign indicating the operator of the quarry. What is the telephone number of the quarry office? (785-555-3182)
 

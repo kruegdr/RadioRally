@@ -100,7 +100,7 @@ If you're not sure how to structure an event, start with a county-wide 3 x 1 eve
 
 For each location, a team must check in within their calculated communications window. Teams do not have to be exactly at the location for successful check in, but the important thing is that they check in on time. To ensure net control is speaking with the correct team, each team is issued a unique authentication table at the beginning of the event. Organizers are free to select other means of authentication, however an authentication table is usually the easiest. Use the planning spreadsheet to generate an authentication table. Copy-and paste the table as an image into the information packet for the teams.
 
-### Tasks
+### Tasks (Currently Editing)
 For each location, have a minimum of four tasks that can be completed by teams. More variety is better. Tasks should fall under the following categories:
 1. Observation
 2. Measurement

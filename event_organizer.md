@@ -220,12 +220,37 @@ Once you have your initial event information, send an announcement out to your l
 
 #### Expanded Announcement
 
-Give your club members a week or so head start to register before you announce the event to a broader distribution list. If this is an official club event, give the club members an exclusive window to register. Once this period is over, announce the event to adjacent clubs in your region. Also announce the event regional email lists, contest lists, and the ARRL calendar.
+Give your club members a week or so head start to register before you announce the event to a broader distribution list. If this is an official club event, give the club members an exclusive window to register. Once this period is over, announce the event to adjacent clubs in your region. Also announce the event regional email lists, contest lists, and the ARRL calendar. Talk about the event on bulletin boards and Discord servers.
+
+### Registration
+
+Set up an online form such as Google Forms to capture registration information. Remember, at least one team member must be a licensed amateur if using any amateur frequency.
+
+* Team Name
+* Team Captain Name
+* Team Captain Callsign (If Applicable)
+* Team Captain Email Address
+* Team Member 2 Name
+* Team Member 2 Callsign (If Applicable)
+* Team Member 2 Email Address
+* Team Member 3 Name
+* Team Member 3 Callsign (If Applicable)
+* Team Member 3 Email Address
+* Team Member 4 Name
+* Team Member 4 Callsign (If Applicable) 
+* List the number of clubs or radio organizations your team members are affiliated with.
+* Team Captain acknowledgement that the event is a field operating event and understands the extent of the area of operations.
+* Team Captain acknowledgement that they have read the event announcement and understand the list of operating locations, what bands, frequencies, and modes will be used.
+* Team Captain acknowledgement that they understand their team is responsible for safe and legal operation of their station.
+
+### Prizes
+
+Given a general limitation of eight teams for a half-day event, plan to reward only the team with the top score. You may wish to offer a participation gift if this is the first time operating your event. Gift cards of $5 to $10 from a local gas station are good options. If any customized prizes are needed, be sure to get them made up early. Glassware with an etched logo is a popular and useful prize. If you can secure sponsorships, make requests as early as possible.
 
 # Event Operation
 
 (currently editing)
-## 5. Net Control and HQ Setup
+## Net Control and HQ Setup
 Several of your locations should be suitable to serve as HQ for an event. Try to locate them at shelters or buildings where picnic tables and bathrooms are available. A minimum of two net control operators are required. As more teams are added, a total of three or four net control operators are required. You will need to set up a temporary station for all channels, and you should also have a backup plan for each station, including radio, coax, and antenna. Be sure to have a central table or workstation where at least two net controllers can operate. Do not allow more than 5 people to participate in net control or organizing activities as this will complicate operations and decision making. Be sure to make use of diplexers or triplexers if required to minimize the number of antenna deployments. 
 
 When laying out the net control table, be sure to have the same time cards handy to jot down information when the checkin happens. Pre plan your authentications. Have all binders listed for each team. Write everything down by hand first before transferring it into the spreadsheet.

@@ -249,7 +249,12 @@ Given a general limitation of eight teams for a half-day event, plan to reward o
 
 # Event Operation
 
-(currently editing)
+# Packing
+
+# Setup
+
+# Briefing
+
 ## Net Control and HQ Setup
 Several of your locations should be suitable to serve as HQ for an event. Try to locate them at shelters or buildings where picnic tables and bathrooms are available. A minimum of two net control operators are required. As more teams are added, a total of three or four net control operators are required. You will need to set up a temporary station for all channels, and you should also have a backup plan for each station, including radio, coax, and antenna. Be sure to have a central table or workstation where at least two net controllers can operate. Do not allow more than 5 people to participate in net control or organizing activities as this will complicate operations and decision making. Be sure to make use of diplexers or triplexers if required to minimize the number of antenna deployments. 
 

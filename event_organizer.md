@@ -269,9 +269,11 @@ Given a general limitation of eight teams for a half-day event, plan to reward o
 
 ## Packing
 
-Begin organizing and packing your gear at least a week before the event. Be efficient and tidy! You don't want to "yard-sale" your equipment when you get to the HQ. Be a good example to others.
+Begin organizing and packing your gear at least a week before the event. Be efficient and tidy! You don't want to "yard-sale" your equipment when you get to the HQ. Be a good example of organization and professionalism to others.
 
 ## HQ Setup
+
+Arrive early, with enough time to set up your station and net control. Bring coffee and donuts for the briefing if you can!
 
 You will need to set up at least one temporary station for all channels, and you should also have a backup plan for each station, including radio, coax, and antenna. Be sure to have a central table or workstation where at least two net controllers can operate. Do not allow more than 5 people to participate in net control or organizing activities as this will complicate operations and decision making. Be sure to make use of diplexers or triplexers if required to minimize the number of antenna deployments. 
 

@@ -100,8 +100,8 @@ If you're not sure how to structure an event, start with a county-wide 3 x 1 eve
 
 For each location, a team must check in within their calculated communications window. Teams do not have to be exactly at the location for successful check in, but the important thing is that they check in on time. To ensure net control is speaking with the correct team, each team is issued a unique authentication table at the beginning of the event. Organizers are free to select other means of authentication, however an authentication table is usually the easiest. Use the planning spreadsheet to generate an authentication table. Copy-and paste the table as an image into the information packet for the teams.
 
-### Tasks (Currently Editing)
-For each location, have a minimum of four tasks that can be completed by teams. More variety is better. Tasks should fall under the following categories: observation, measurement, retrieval, and communications.
+### Tasks
+For each location, have a minimum of four tasks that can be completed by teams. More variety is better. Tasks should fall under the following categories: observation, measurement, retrieval, and communications. Tasks may be themed by local history or culture. For example, an area may have a significant place in Cold War history, Civil War history, or other events. 
 
 #### Observation
 Observation tasks require a team to carefully observe their surroundings and report on their findings.
@@ -139,7 +139,8 @@ Observation tasks require a team to carefully observe their surroundings and rep
 > "Drive across the bridge and look for a crossed yagi antenna mounted to the railing. To which side of the bridge is the antenna mounted? From a safe location, what is your visually estimated azimuth of the antenna in degrees from true north?" (West side, oriented between 200 and 210 degrees) 
 
 #### Retrieval
-Retrieval
+Retrieval tasks are similar to geo-caching.
+
  
 #### Measurement
 Measurement tasks require a team to physically interact with something in their surroundings. A measurement might require a tape measure, inclinometer, or other tool. Organizers may elect to provide the tool or have the teams provide their own.

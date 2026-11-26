@@ -196,7 +196,7 @@ Use your radio to relay information from another station
 
 > "Near this location is a hidden transmitter tuned to 446.400 MHz requiring a 151.4 Hz tone. Key up your radio on the channel and dial "1617#" on your keypad to trigger a response. Follow the instructions and report your response to net control."
 
-> "Near this location is another amateur radio operator, KI4RXJ, who is monitoring 146.400 MHz. Make contact with them and ask for the mileage on their vehicle. Report this number back to net control."
+> "Near this location is another amateur radio operator, KI4RXJ, who is monitoring 146.400 MHz on DMR simplex (Talkgroup 99, Color Code 1, Timeslot 1). Make contact with them and ask for the mileage on their vehicle. Report this number back to net control."
 
 > "Near this location is a cross-band repeater. Tune your radio to 446.400 MHz with a 88.5 Hz tone and contact N0JDS for further instructions.
 

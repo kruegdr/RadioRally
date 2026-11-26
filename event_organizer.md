@@ -206,6 +206,8 @@ Use your radio to relay information from another station
 
 #### Create Communications
 
+Create a website with all pertinent information. We suggest using the form, "https://www.yourclubwebsite.org/radiorally". Be sure to have a date near the top of your website when the information was updated. Also report the number of open slots available. Keep your site updated at least twice a week.
+
 Create a short and impactful email to easily send and forward. Create a JPG or PNG graphic of an event flyer for distribution on various channels. When posting on social media, images get more eyes. Be sure to use the Radio Rally logo in your visual communications.
 
 #### Announce Intent

@@ -106,10 +106,30 @@ For each location, have a minimum of four tasks that can be completed by teams. 
 #### Observation
 Observation tasks require a team to carefully observe their surroundings and report on their findings.
 
-* Read signage > "According to the historical marker nearby, who was the last serving postmaster of the town? (J.T. McMillan)
-> "At this location, there is a picnic shelter. How many picnic tables are under the shelter?" (Eight Picnic Tables)
-> "At this location, there is a sign indicating the operator of the quarry. What is the telephone number of the quarry office? (785-555-3182)
+**Read signage**
 
+> "According to the historical marker nearby, who was the last serving postmaster of the town? (J.T. McMillan)
+> "At this location, there is a sign indicating the operator of the quarry. What is the telephone number of the quarry office? (785-555-3182)
+> "At this location is a bulletin board, and a unique club flyer is posted on the board. What phrase is printed at the bottom of the flyer?" ("Keeping the "fun" in Ham Radio")
+
+**Counting**
+
+> "At this location, there is a picnic shelter. How many picnic tables are under the shelter?" (Eight Picnic Tables)
+> "At this location, there is a marina. Along the northernmost line of slips, how many uncovered slips are unoccupied? (11 - eleven)
+> "Northeast of this location there is a radio tower adjacent to the water tower. On the radio tower, how many directional antennas are mounted to the tower?" (2 - two)
+
+**Colors**
+
+> "At the intersection of Danforth and Pape, what colors make up the logo of the business in the northwest quadrant of the intersection? (Orange, Brown, and White)"
+> "Parked at the south end of the parking lot is a Chevrolet 1500 pickup with K-state bumper sticker. What color is the truck?" (White)
+> "Looking west from the 3rd street railroad crossing, there is a circular sign along the tracks with the letter "D" encircled. What colors are used on that sign? (Purple and white)
+
+**Orientation and Placement**
+
+> "At historic building at this location, which compass direction does the front porch face?" (South)
+> "Near your location is a grass-strip airport, FAA-designated "0KS4". What is the straight-line distance (in miles) between your location and the hangar and which compass direction is the orientation of the runway?" (1.8 miles, North-South or 18/36)
+> "Drive across the bridge and look for a crossed yagi antenna mounted to the railing. To which side of the bridge is the antenna mounted? From a safe location, what is your visually estimated azimuth of the antenna in degrees from true north?" (West side, oriented between 200 and 210 degrees) 
+ 
 #### Measurement
 Measurement tasks require a team to physically interact with something in their surroundings. A measurement might require a tape measure, inclinometer, or other tool. Organizers may elect to provide the tool or have the teams provide their own.
 > "Using the provided tape measure, what is the the inside width (in inches) of the footpath bridge at this location? (72 inches)

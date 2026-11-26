@@ -69,4 +69,4 @@ During check-in, net control indicates which task a team should perform at their
 After the task response is communicated to net control, teams are allotted time for takedown of their station. This allotted time is used to determine the departure time to seed the begin time of the transit to the next location. This process repeats for each stage until the last stage, when teams return to the event headquarters.
 
 ## Debriefing
-After their last stage, teams transit to the event headquarters to debrief on what went well and what could improve with their preparations and with the event operations. Teams can socialize while scores are tallied, and the organizer can recognize and reward the highest [scoring team](scoring.md).
+After the last stage, teams transit to the event headquarters to turn in their packets and debrief with net control and other teams. Teams socialize while surveys are filled out and scores are tallied. At the end of the debriefing the organizer can recognize and reward the highest scoring team.

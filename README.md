@@ -22,8 +22,15 @@ Radio Rally challenges operators in the following ways:
 
 Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 
 
-# Operation
-Events should be announced with a minimum of one to two months lead time. The event announcement will provide a link to the operating area, headquarters location, a list of possible operating locations, and list the official event frequencies and modes. Teams of two to four people register and make necessary preparations.
+#Operation
+
+##Announcement
+Events should be announced with a minimum of one to two months lead time. The event announcement will provide the following information:
+*Operating area boundary
+*Headquarters location
+*List of possible operating locations (CSV and KML format)
+*List the official event frequencies and modes
+*Start time and number of stages and/or duration
 
 Detailed information can be found in the links immediately below.
 

@@ -53,7 +53,7 @@ At the team briefing, the event organizer reviews the structure and rules of the
 Once the operating locations are released, each team uses the packet of operating instructions to plan a route to their first location and calculate their scheduled arrival time and their check-in window with net control.
 
 ## Set-up
-Upon arrival at the operating location, teams are given an allotted setup time. Teams may use this time to set up their station and survey the area before their check-in window.
+Upon arrival at the operating location, Teams set up their station and survey the area before their check-in window.
 
 ## Check-in
 In their time window, teams contact net control on one of the official event radio channels and operating modes. Net control will authenticate the team, respond with the official time, and indicate which task must be performed by the team.

@@ -38,12 +38,13 @@ If you have not planned an event before, give yourself 6-12 months of planning t
 
 **3. Edit your list of OL's in person**
 
-  With your edited list of OL's, take 
-  Do not go below 50 operating locations per 1,000 sq miles. 50 locations provides just enough uncertainty for participants on where they will operate. 50 locations also provides for about eight teams without duplicating locations. Add more sites if they provide a good radio, trivia, or geographic challenge. Add more sites if you wish to host more than eight teams. Do not exceed 70-80 operating locations per 1,000 sq miles, as managing the data and tasks for the event become burdensome at that level.
+  With your edited list of OL's, take time to visit your OL's in person. Walk around and snap photos of the area with a particular interest of things that cannot be readily seen from street-view. Snap overall photos for general context, and snap detailed photos of signs, objects, and anything else that may be useful for for planning competitor tasks.
+  
+  Do not go below 50 operating locations per 1,000 sq miles. 50 locations provides just enough uncertainty for participants on where they will operate. 50 locations also provides for a capacity of about eight teams without duplicating locations. Add more sites if they provide a good radio, trivia, or geographic challenge. Add more sites if you wish to host more than eight teams. Do not exceed 70-80 operating locations per 1,000 sq miles, as managing the data and tasks for the event become burdensome at that level.
 
 <img src="operating_locations.png" alt="Logo" width="800">
 
-### 4. Channels and Modes
+### Channels and Modes
 Select three channels that are accessible, of interest, and present a reasonable challenge to participants. Select modes that can challenge participants and are reasonably within capabilities of your participants. 
 
 * Primary : Most challenging.

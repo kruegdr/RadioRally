@@ -23,18 +23,18 @@ Use the [event planning spreadsheet](./radio_rally_planning.ods) to plan and ope
 
 <img src="area_of_operations.png" alt="Logo" width="900">
 
-## 2. Bands
-Select bands that are accessible to your participants, and order them from most difficult to least difficult. Don't forget that technicians can also use 10 meters and 6 meters! Teams can score more points using the more challenging primary channel.
+### 2. Channels and Modes
+Select three channels that are accessible, of interest, and present a reasonable challenge to participants. Select modes that can challenge participants and are reasonably within capabilities of your participants. 
 
-- **Primary Channel** : Select the primary channel that is a reasonable challenge to operators. For example, if your club is trying to promote DMR, make the primary channel DMR.
+* Primary : Most challenging.
+* Alternate : Moderate challenge.
+* Contingent : Least challenge. Usually uses a repeater.
 
-- **Alternate Channel** : Select an alternate channel that is accessible by most operators, but may still be a reasonabl challenge. For example, the alternate channel might be simplex UHF voice. Many teams should be able to do UHF voice, but depending on the operating locations, teams may need to erect masts, or find other ways to get extra height on the antenna to make a successful contact.
-
-- **Contingent Channel** : Select a contingent channel that is accessible to all operators and be straightforward in setup. Usually, this is a local repeater that has good coverage in the area. Be sure to get permission from the repeater owner to conduct your event!
+For example, if a club is trying to promote DMR, make DMR the mode for the primary channel. Alternate modes might consist of something like simplex, which could be a challenge at longer distances from the HQ. Teams may need to employ directional antennas or find a nearby hill to make contact from. Contingent channels should be the easiest to access. A good default for the contingent channel is the club repeater.
 
 Here are some ideas for bands and channels.
 
-- **E = Easy (Technician Friendly)**
+- **E = Easy (Technician or License Free Friendly)**
 - **M = Medium**
 - **C = Challenging**
 

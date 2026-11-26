@@ -23,7 +23,14 @@ Radio Rally challenges operators in the following ways:
 Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 
 
 # Operation
+Continue scrolling down for a brief description of the event operation.
 
+Detailed information can be found in the links immediately below.
+
+[Event organizer details](event_organizer.md)
+
+[Competitor details.](detailed_instructions.md)
+ 
 ## Announcement
 Events should be announced with a minimum of one to two months lead time. The event announcement will provide the following information:
 
@@ -32,14 +39,6 @@ Events should be announced with a minimum of one to two months lead time. The ev
 * List of possible operating locations (CSV and KML format)
 * List the official event frequencies and modes
 * Start time and number of stages and/or duration
-
-Detailed information can be found in the links immediately below.
-
-[Event organizers, click here.](event_organizer.md)
-
-[Competitors, click here.](detailed_instructions.md)
-
-Continue scrolling for a brief description of the event operation. 
 
 ## Preparation
 Form your team, register with the organizer, and begin studying the operating area. Assess your equipment and compare to the operating modes needed for the event. Compare the operating locations to the location of the HQ and get a sense for how difficult it could be to make contact on the channels specified by the organizer. Teams are free to visit any operating location ahead of the event, but will not know their specific operating locations until they are assigned at the event briefing.

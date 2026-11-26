@@ -54,11 +54,11 @@ Here are some ideas for bands and channels.
 
 | Band | SSB Voice | JS8Call | RTTY | HELL | Winlink |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 6 m |E|E|E|M|M|
-| 10 m |E|E|E|E|M|
-| 40 m |M|E|C|C|M|
-| 60 m |C|C|C|C|C|
-| 80 m |C|C|C|C|C|
+| 6 m  | E | E | E | M | M |
+| 10 m | E | E | E | E | M |
+| 40 m | M | E | C | C | M |
+| 60 m | C | C | C | C | C |
+| 80 m | C | C | C | C | C |
 
 ## 3. Event Format
 Select a format of your event based on tasks and operating locations using the M x N format.

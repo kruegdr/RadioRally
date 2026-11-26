@@ -25,17 +25,18 @@ Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA
 # Operation
 Events should be announced with a minimum of one to two months lead time. The event announcement will provide a link to the operating area, headquarters location, a list of possible operating locations, and list the official event frequencies and modes. Teams of two to four people register and make necessary preparations.
 
-Continue scrolling for a brief description of the event operation. Detailed information can be found in the links immediately below.
+Detailed information can be found in the links immediately below.
 
 [Event organizers, click here.](event_organizer.md)
 
 [Competitors, click here.](detailed_instructions.md)
 
+Continue scrolling for a brief description of the event operation. 
+
+## Basic Operation
+A Radio Rally begins with a team briefing at the event headquarters and the event is conducted over multiple stages. A typical half-day event has three stages but can be adjusted by the organizer as desired. Every stage has the same structure: transit, set-up, check-in, task, and take-down. Upon completion of the stages, all teams return to the event headquarters to socialize with other teams and debrief on the day's event. Team packets are returned to the organizer and scores are tallied.
+
 <img src="area_of_operations.png" alt="Logo" width="500">
-
-A Radio Rally begins with a team briefing at the event headquarters and the event is conducted over multiple stages. A typical half-day event has three stages but can be adjusted by the organizer as desired. Every stage has the same structure: transit, set-up, check-in, task, and take-down. Upon completion of the stages, all teams return to the event headquarters to debrief and socialize with other teams.
-
-Below is a quick overview. 
 
 ## Briefing
 At the team briefing, the event organizer reviews the structure and rules of the event with the teams. Teams are provided a [packet of operating instructions](competitor_packet.md), containing necessary information to successfully complete the event. Approximately 10 minutes before the official start time, each team is provided their unique list of operating locations.

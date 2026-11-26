@@ -27,9 +27,9 @@ Continue scrolling down for a brief description of the event operation.
 
 Detailed information can be found in the links immediately below.
 
-[Event organizer details](event_organizer.md)
+$\Large \text{$[Event organizer details](event_organizer.md)}
 
-[Competitor details.](detailed_instructions.md)
+[Competitor details](detailed_instructions.md)
  
 ## Announcement
 Events should be announced with a minimum of one to two months lead time. The event announcement will provide the following information:

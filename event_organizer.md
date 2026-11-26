@@ -247,6 +247,20 @@ Set up an online form such as Google Forms to capture registration information. 
 * Team Captain acknowledgement that they have read the event announcement and understand the list of operating locations, what bands, frequencies, and modes will be used.
 * Team Captain acknowledgement that they understand their team is responsible for safe and legal operation of their station.
 
+### Team Packets
+
+Build enough team packets for the maximum amount of teams you limit registration to. If you say you can accommodate eight teams, be sure to have materials for eight teams. This makes it easy to add teams last minute if you have room. Build team packets in standard 3-ring binders that hold 8.5 x 11 inch paper. This ensures paper and materials are readily available. If you are doing an HT-only event, consider doing half-sized paper (4.25 x 5.5 inches).
+
+Team Packets must include:
+
+* Example script for communicating with net control
+* List of primary, alternate, and contingent channels and modes.
+* A blank "dope card" which includes event specific bogey times, setup times, and takedown times. It also includes a place to write down the first operating location assigned.
+* A table of operating location GPS coordinates and standard drive times between all operating locations.
+* Blank time cards, including one extra
+* Authentication table, unique to each team.
+* An envelope of sealed, smaller task envelopes
+
 ### Prizes
 
 Given a general limitation of eight teams for a half-day event, plan to reward only the team with the top score. You may wish to offer a participation gift if this is the first time operating your event. Gift cards of $5 to $10 from a local gas station are good options. If any customized prizes are needed, be sure to get them made up early. Glassware with an etched logo is a popular and useful prize. If you can secure sponsorships, make requests as early as possible.
@@ -254,6 +268,8 @@ Given a general limitation of eight teams for a half-day event, plan to reward o
 # Event Operation
 
 ## Packing
+
+Begin organizing and packing your gear at least a week before the event. Be efficient and tidy! You don't want to "yard-sale" your equipment when you get to the HQ. Be a good example to others.
 
 ## HQ Setup
 

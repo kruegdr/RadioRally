@@ -31,7 +31,7 @@ Detailed information can be found in the links immediately below.
 
 [Competitor details](detailed_instructions.md)
  
-## Announcement
+## Event Announcement
 Events should be announced with a minimum of one to two months lead time. The event announcement will provide the following information:
 
 * Operating area boundary

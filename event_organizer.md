@@ -42,6 +42,8 @@ If you have not planned an event before, give yourself 6-12 months of planning t
   
   Do not go below 50 operating locations per 1,000 sq miles. 50 locations provides just enough uncertainty for participants on where they will operate. 50 locations also provides for a capacity of about eight teams without duplicating locations. Add more sites if they provide a good radio, trivia, or geographic challenge. Add more sites if you wish to host more than eight teams. Do not exceed 70-80 operating locations per 1,000 sq miles, as managing the data and tasks for the event become burdensome at that level.
 
+When your OL's are confirmed and locked in, you will need to calculate the drive time between each location. This can be as simple as manually entering in two coordinates in Google Maps and copying the result, there are spreadsheet formulas that make use of the Google Maps API, or you might leverage AI to calculate the drive times between locations. This step is tedious, but you only have to do it once or when you re-design your event.
+
 <img src="operating_locations.png" alt="Logo" width="800">
 
 ### Channels and Modes

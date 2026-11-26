@@ -38,6 +38,7 @@ Events should be announced with a minimum of one to two months lead time. The ev
 * Headquarters location
 * List of possible operating locations (CSV and KML format)
 * List the official event frequencies and modes
+* Allotted station set-up time
 * Start time and number of stages and/or duration
 
 ## Preparation

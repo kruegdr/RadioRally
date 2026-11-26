@@ -42,13 +42,13 @@ Here are some ideas for bands and channels.
 
 | Band | FM Voice | DMR Voice | SSB Voice | APRS | JS8Call | VARA FM | VARA HF | MT63 | Meshcore |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 10 m |E|C|E|M|E|M|M|M|N/A|
-| 6 m |E|C|E|E|E|E|N/A|M|N/A|
-| 2 m |E|E|C|E|E|E|N/A|M|N/A|
-| MURS |E|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
-| 70 cm |E|E|C|E|E|E|N/A|M|N/A|
-| FRS / GMRS |E|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
-| 33 cm |C|C|C|C|C|C|N/A|C|E|
+| 10 m       | M | N/A | E   | M   | E   | N/A | M   | M   | N/A |
+| 6 m        | M | N/A | E   | E   | E   | E   | N/A | M   | N/A |
+| 2 m        | E | E   | C   | E   | E   | E   | N/A | M   | N/A |
+| MURS       | E | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+| 70 cm      | E | E   | C   | E   | E   | E   | N/A | M   | N/A |
+| FRS / GMRS | E | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+| 33 cm      | C | C   | C   | C   | C   | C   | N/A | C   | E   |
 
 **HF**
 

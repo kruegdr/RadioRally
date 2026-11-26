@@ -202,6 +202,10 @@ Use your radio to relay information from another station
 
 > "Near this location is an AX.25 packet bulletin board operating on 146.400 MHz. Use a packet application of your choice to connect to the bulletin board and access message 137 for further instructions." 
 
+### Secure HQ Location
+
+Plan for a primary HQ location and a backup HQ location from your list of operating locations. Secure any registration or reservations as early as practical. An HQ location could be a rented building at the fairgrounds or a shelter at a local park. Select an HQ that is within or close to the core of your AO. Survey the HQ location for suitability of setting up antennas and hosting all participants for the briefing and debriefing. Be sure to have suitable restroom facilities as well.
+
 ### Market the event
 
 #### Create Communications
@@ -212,7 +216,7 @@ Create a short and impactful email to easily send and forward. Create a JPG or P
 
 #### Announce Intent
 
-Announce your interest and intent to your local club through a verbal announcement at a monthly club meeting. Ask the membership if they have interest and are willing to support or participate in such an event. Don't forget to solicit help for net control!
+Announce your interest and intent to your local club through a verbal announcement at a monthly club meeting. Ask the membership if they have interest and are willing to support or participate in such an event. Don't forget to solicit help for net control! At least two net control operators are required. Three or four are preferred.
 
 #### Initial Announcement to Club
 
@@ -249,17 +253,21 @@ Given a general limitation of eight teams for a half-day event, plan to reward o
 
 # Event Operation
 
-# Packing
+## Packing
 
-# Setup
+## HQ Setup
 
-# Briefing
+You will need to set up at least one temporary station for all channels, and you should also have a backup plan for each station, including radio, coax, and antenna. Be sure to have a central table or workstation where at least two net controllers can operate. Do not allow more than 5 people to participate in net control or organizing activities as this will complicate operations and decision making. Be sure to make use of diplexers or triplexers if required to minimize the number of antenna deployments. 
 
-## Net Control and HQ Setup
-Several of your locations should be suitable to serve as HQ for an event. Try to locate them at shelters or buildings where picnic tables and bathrooms are available. A minimum of two net control operators are required. As more teams are added, a total of three or four net control operators are required. You will need to set up a temporary station for all channels, and you should also have a backup plan for each station, including radio, coax, and antenna. Be sure to have a central table or workstation where at least two net controllers can operate. Do not allow more than 5 people to participate in net control or organizing activities as this will complicate operations and decision making. Be sure to make use of diplexers or triplexers if required to minimize the number of antenna deployments. 
-
-When laying out the net control table, be sure to have the same time cards handy to jot down information when the checkin happens. Pre plan your authentications. Have all binders listed for each team. Write everything down by hand first before transferring it into the spreadsheet.
+When laying out the net control table, be sure to have the same time cards handy to jot down information when a check-in happens. Pre plan your authentications. Have all binders listed for each team. Write everything down by hand first before transferring it into the spreadsheet.
 
 If you set up a mobile HQ be sure you have plenty of solar, battery, or generator power to last the entire day. Use a program like Radio Mobile to simulate the radio links between your station and your operating locations. Make the link a challenge, but don't make it too hard.
+
+###
+
+## Briefing
+
+## Net Control and HQ Setup
+
 
 Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 

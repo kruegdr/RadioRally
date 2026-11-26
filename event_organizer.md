@@ -184,20 +184,19 @@ Craft a response that is difficult to speak clearly over the air.
 Craft a response that challenges diction and word timing.
 
 > "Which statement on your task card matches what is found posted at your location?"
-- "Sixteen characters make up hexadecimal numbers"
-- "Sixty caricatures make up ecumenical blunders"
-- "Thrifty managers take up influential wonders"
-- "Screened inheritors take up rebuttal plunders"
+> - "Sixteen characters make up hexadecimal numbers"
+> - "Sixty caricatures make up ecumenical blunders"
+> - "Thrifty managers take up influential wonders"
+> - "Screened inheritors take up rebuttal plunders"
 
 **Radio Relay**
 
 Use your radio to relay information from another station
+> "Near this location is a hidden transmitter tuned to 146.400 MHz. The transmitter reports temperature and time every seven minutes by voice message. Listen for the transmission and record the time and temperature. Report the results back to net control.
 
-- "Near this location is a hidden transmitter tuned to 146.400 MHz. The transmitter reports temperature and time every seven minutes by voice message. Listen for the transmission and record the time and temperature. Report the results back to net control.
+> "Near this location is a hidden transmitter tuned to 446.400 MHz. Key up your radio on the channel and dial "1617" on your keypad to trigger a response. Record the response and report the response to net control."
 
-- "Near this location is a hidden transmitter tuned to 446.400 MHz. Key up your radio on the channel and dial "1617" on your keypad to trigger a response. Record the response and report the response to net control."
-
-- "Near this location is another amateur radio operator, KI4RXJ, who is monitoring 146.400 MHz. Make contact with them and ask for the mileage on their vehicle. Report this number back to net control." 
+> "Near this location is another amateur radio operator, KI4RXJ, who is monitoring 146.400 MHz. Make contact with them and ask for the mileage on their vehicle. Report this number back to net control." 
 
 ### Market the event
 Market your event (currently editing)

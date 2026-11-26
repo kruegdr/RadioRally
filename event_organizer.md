@@ -203,7 +203,22 @@ Use your radio to relay information from another station
 > "Near this location is an AX.25 packet bulletin board operating on 146.400 MHz. Use a packet application of your choice to connect to the bulletin board and access message 137 for further instructions." 
 
 ### Market the event
-Market your event (currently editing)
+
+#### Create Communications
+
+Create a short and impactful email to easily send and forward. Create a JPG or PNG graphic of an event flyer for distribution on various channels. When posting on social media, images get more eyes. Be sure to use the Radio Rally logo in your visual communications.
+
+#### Announce Intent
+
+Announce your interest and intent to your local club through a verbal announcement at a monthly club meeting. Ask the membership if they have interest and are willing to support or participate in such an event.
+
+#### Initial Announcement to Club
+
+Once you have your initial event information, send an announcement out to your local club and be sure to include a link for registration. Ask for participation, and if someone wants to gather a team but cannot find teammates, to contact you directly. Help team members pair up when possible.
+
+#### Expanded Announcement
+
+Give your club members a week or so head start to register before you announce the event to a broader distribution list. If this is an official club event, give the club members an exclusive window to register. Once this period is over, announce the event to adjacent clubs in your region. Also announce the event regional email lists, contest lists, and the ARRL calendar.
 
 # Event Operation
 

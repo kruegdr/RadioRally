@@ -46,7 +46,7 @@ Form your team, register with the organizer, and begin studying the operating ar
 <img src="area_of_operations.png" alt="Logo" width="500">
 
 ## Briefing
-At the team briefing, the event organizer reviews the structure and rules of the event with the teams. Teams are provided a [packet of operating instructions](competitor_packet.md), containing necessary information to successfully complete the event. Approximately 10 minutes before the official start time, each team is provided their unique list of operating locations.
+At the team briefing, the event organizer reviews the structure and rules of the event with the teams. Teams are provided a packet of operating information containing necessary information to successfully complete the event. Approximately 10-15 minutes before the official start time, each team is provided their unique list of operating locations.
 
 ## Transit
 Once the operating locations are released, each team uses the packet of operating instructions to plan a route to their first location and calculate their scheduled arrival time and their check-in window with net control.

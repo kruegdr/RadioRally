@@ -82,7 +82,7 @@ Here are some ideas for bands and channels.
 | 60 m | C | C | C | C | C |
 | 80 m | C | C | C | C | C |
 
-### 3. Event Format
+### Event Format
 Select a format of your event based on tasks and operating locations using the M x N format.
 - M = number of operating locations
 - N = number of tasks per operating location
@@ -96,14 +96,9 @@ Example:
 
 If you're not sure how to structure an event, start with a county-wide 3 x 1 event.
 
-
-
-Use this spreadsheet to organize and operate your event.
-[event planning spreadsheet](./radio_rally_planning.ods)
-
-## 4. Check In and Tasks
 ### Check In
-For each location, a team must check in within their window. Teams do not have to be exactly at the location for successful check in, but the important thing is that they check in on time. To ensure net control is speaking with the correct team, each team is issued a unique authentication table at the beginning of the event. Use the provided spreadsheet to generate an authentication table. Copy-and paste the table as an image into the information packet for the teams. Check ins are recorded by net control, and an official time is given to the team.
+
+For each location, a team must check in within their calculated communications window. Teams do not have to be exactly at the location for successful check in, but the important thing is that they check in on time. To ensure net control is speaking with the correct team, each team is issued a unique authentication table at the beginning of the event. Organizers are free to select other means of authentication, however an authentication table is usually the easiest. Use the planning spreadsheet to generate an authentication table. Copy-and paste the table as an image into the information packet for the teams.
 
 ### Tasks
 For each location, have a minimum of four tasks that can be completed by teams. More variety is better. Tasks should fall under the following categories:

@@ -56,7 +56,7 @@ Once the operating locations are released, each team uses the packet of operatin
 Upon arrival at the operating location, Teams set up their station and survey the area before their check-in window.
 
 ## Check-in
-In their time window, teams contact net control on one of the official event radio channels and operating modes. Net control will authenticate the team, respond with the official time, and indicate which task must be performed by the team.
+In their time window, teams contact net control on one of the official event radio channels and operating modes. Net control will authenticate the team, respond with their official check-in time, and indicate which task must be performed by the team.
 
 ## Task
 During check-in, net control indicates which task a team should perform at their location. Teams open the appropriate sealed envelope to reveal a simple scavenger-hunt-like task and an allotted time window to complete the task. Teams will communicate their response to net control and net control will respond with an official time and the team's next operating location.

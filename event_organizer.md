@@ -158,6 +158,14 @@ Measurement tasks require a team to physically interact with something in their 
 **Angle**
 > "Using the inclinometer in your phone or other device, what is the angle of the boat ramp as measured one above the water line along the ramp? (10 degrees from horizontal)
 
+> "Using the method enclosed (Enclose instructions for angle measurement by hands), estimate the sun angle at your location. Report your time and sun angle to net control. If the sun is not visible, estimate the height angle of the nearest antenna tower." (45 degrees at 9:39 am local time)
+
+**Sensor**
+> "Using the provided sensor, transmit to net control the barometric pressure in millibars and the time of your measurement." (1010 mb at 14:01 local time)
+
+> "Using the provided sensor, transmit to net control the water temperature in degrees Celsius and the time of your measurement." (14 C at 12:59 local time)
+
+
 #### Communication
 Communication tasks require a team to handle complex information or retrieve information from another source.
 > Tongue Twister - "At this location there is a unique club flyer posted on the bulletin board. What is the phrase written at the bottom of the flyer?" ("A proper copper coffee pot.")

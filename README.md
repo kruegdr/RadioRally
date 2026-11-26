@@ -22,9 +22,9 @@ Radio Rally challenges operators in the following ways:
 
 Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 
 
-#Operation
+# Operation
 
-##Announcement
+## Announcement
 Events should be announced with a minimum of one to two months lead time. The event announcement will provide the following information:
 *Operating area boundary
 *Headquarters location

@@ -212,7 +212,7 @@ Create a short and impactful email to easily send and forward. Create a JPG or P
 
 #### Announce Intent
 
-Announce your interest and intent to your local club through a verbal announcement at a monthly club meeting. Ask the membership if they have interest and are willing to support or participate in such an event.
+Announce your interest and intent to your local club through a verbal announcement at a monthly club meeting. Ask the membership if they have interest and are willing to support or participate in such an event. Don't forget to solicit help for net control!
 
 #### Initial Announcement to Club
 

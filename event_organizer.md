@@ -137,6 +137,9 @@ Observation tasks require a team to carefully observe their surroundings and rep
 > "Near your location is a grass-strip airport, FAA-designated "0KS4". What is the orientation of the runway? (North-South or 18/36)
 
 > "Drive across the bridge and look for a crossed yagi antenna mounted to the railing. To which side of the bridge is the antenna mounted? From a safe location, what is your visually estimated azimuth of the antenna in degrees from true north?" (West side, oriented between 200 and 210 degrees) 
+
+#### Retrieval
+Retrieval
  
 #### Measurement
 Measurement tasks require a team to physically interact with something in their surroundings. A measurement might require a tape measure, inclinometer, or other tool. Organizers may elect to provide the tool or have the teams provide their own.
@@ -168,15 +171,31 @@ Measurement tasks require a team to physically interact with something in their 
 
 #### Communication
 Communication tasks require a team to handle complex information or retrieve information from another source.
-> Tongue Twister - "At this location there is a unique club flyer posted on the bulletin board. What is the phrase written at the bottom of the flyer?" ("A proper copper coffee pot.")
-> Similar Sounds - "Which statement on your task card matches what is found posted at your location?"
+
+**Tongue Twister**
+
+Craft a response that is difficult to speak clearly over the air.
+
+> "At this location there is a unique club flyer posted on the bulletin board. What is the phrase written at the bottom of the flyer?" ("A proper copper coffee pot.")
+
+**Similar Sounds**
+
+Craft a response that challenges diction and word timing.
+
+> "Which statement on your task card matches what is found posted at your location?"
 - "Sixteen characters make up hexadecimal numbers"
 - "Sixty caricatures make up ecumenical blunders"
 - "Thrifty managers take up influential wonders"
 - "Screened inheritors take up rebuttal plunders"
-> Radio Relay - use your radio to relay information from another station
+
+**Radio Relay**
+
+Use your radio to relay information from another station
+
 - "Near this location is a hidden transmitter tuned to 146.400 MHz. The transmitter reports temperature and time every seven minutes by voice message. Listen for the transmission and record the time and temperature. Report the results back to net control.
+
 - "Near this location is a hidden transmitter tuned to 446.400 MHz. Key up your radio on the channel and dial "1617" on your keypad to trigger a response. Record the response and report the response to net control."
+
 - "Near this location is another amateur radio operator, KI4RXJ, who is monitoring 146.400 MHz. Make contact with them and ask for the mileage on their vehicle. Report this number back to net control." 
 
 ### Market the event

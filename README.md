@@ -33,8 +33,8 @@ Detailed information can be found in the links immediately below.
 
 Continue scrolling for a brief description of the event operation. 
 
-## Basic Operation
-A Radio Rally begins with a team briefing at the event headquarters and the event is conducted over multiple stages. A typical half-day event has three stages but can be adjusted by the organizer as desired. Every stage has the same structure: transit, set-up, check-in, task, and take-down. Upon completion of the stages, all teams return to the event headquarters to socialize with other teams and debrief on the day's event. Team packets are returned to the organizer and scores are tallied.
+## Preparation
+Form your team, register with the organizer, and begin studying the operating area. Assess your equipment and compare to the operating modes needed for the event. Compare the operating locations to the location of the HQ and get a sense for how difficult it could be to make contact on the channels specified by the organizer. Teams are free to visit any operating location ahead of the event, but will not know their specific operating locations until they are assigned at the event briefing.
 
 <img src="area_of_operations.png" alt="Logo" width="500">
 

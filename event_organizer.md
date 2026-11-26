@@ -198,7 +198,9 @@ Use your radio to relay information from another station
 
 > "Near this location is another amateur radio operator, KI4RXJ, who is monitoring 146.400 MHz. Make contact with them and ask for the mileage on their vehicle. Report this number back to net control."
 
-> "Near this location is a cross-band repeater. Tune your radio to 446.400 MHZ with a 88.5 Hz tone and contact N0JDS for your instructions. 
+> "Near this location is a cross-band repeater. Tune your radio to 446.400 MHz with a 88.5 Hz tone and contact N0JDS for further instructions.
+
+> "Near this location is an AX.25 packet bulletin board operating on 146.400 MHz. Use a packet application of your choice to connect to the bulletin board and access message 137 for further instructions." 
 
 ### Market the event
 Market your event (currently editing)

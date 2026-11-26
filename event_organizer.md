@@ -134,14 +134,28 @@ Observation tasks require a team to carefully observe their surroundings and rep
 
 > "At historic building at this location, which compass direction does the front porch face?" (South)
 
-> "Near your location is a grass-strip airport, FAA-designated "0KS4". What is the straight-line distance (in miles) between your location and the hangar and which compass direction is the orientation of the runway?" (1.8 miles, North-South or 18/36)
+> "Near your location is a grass-strip airport, FAA-designated "0KS4". What is the orientation of the runway? (North-South or 18/36)
 
 > "Drive across the bridge and look for a crossed yagi antenna mounted to the railing. To which side of the bridge is the antenna mounted? From a safe location, what is your visually estimated azimuth of the antenna in degrees from true north?" (West side, oriented between 200 and 210 degrees) 
  
 #### Measurement
 Measurement tasks require a team to physically interact with something in their surroundings. A measurement might require a tape measure, inclinometer, or other tool. Organizers may elect to provide the tool or have the teams provide their own.
-> "Using the provided tape measure, what is the the inside width (in inches) of the footpath bridge at this location? (72 inches)
-> "Using the provided inclinometer, what is the angle of the boat ramp as measured just above the water line? (10 degrees from horizontal)
+
+**Measurement, Long**
+
+> "Near your location is the grass-strip airport, FAA-designated "0KS4". Using a means of your choice, what is the straight-line distance (in miles) between your operating location and the hangar at "0KS4"?
+
+> "Using the odometer on your vehicle, estimate the distance (miles plus tenths of a mile) between the dam spillway and the southern-end of the eastern guardrail on the road riding on the top of the P.T. Amos Dam?" (1.2 miles)
+
+**Measurement, Short**
+
+Teams must use a tape measure to measure distances between objects.
+
+> "Using the tape measure, what is the the inside width (in inches) of the footpath bridge at this location? (72 inches)
+
+> "Using your tape measure, what is the tallest vehicle height in (feet and inches) that could park under the eaves at this location? (11 ft 3 inches)
+
+> "Using the inclinometer in your phone or other device, what is the angle of the boat ramp as measured just above the water line? (10 degrees from horizontal)
 
 #### Communication
 Communication tasks require a team to handle complex information or retrieve information from another source.

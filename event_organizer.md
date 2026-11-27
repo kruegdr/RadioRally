@@ -325,7 +325,14 @@ Drive defensively, use your mirrors, obey the speed limit, you will have plenty 
 #### RF Safety
 Locate antennas a sufficient distance from people. Be sure you have good grounding and bonding. Use the minimum power necessary to make contact. Do not handle coax or disconnect coax connectors while transmitting.
 
-## Net Control and HQ Setup
+### Packet Orientation
+
+Hand out the team packets and review the contents.
+
+#### Script
+Here is the script to use when communicating with net control. You do not have to recite this script perfectly to get your responses into net control.
+
+#### 
 
 
 Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 

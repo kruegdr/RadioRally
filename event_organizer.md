@@ -368,5 +368,35 @@ Lets confirm your locations. Go over each team and have them read back and confi
 ### Practice Time Card
 Let's do a practice time card. Take out one of your time cards. You should have enough left to do the event. Raise your hand if you need another one. We are all going to do the same information.
 
-When we are done, I'll give you the official start time, but for this example, write down 09:00.
+When we are done, I'll give you the official start time, but for this example, write down 09:00 in the start box.
+
+Now, say our HQ is at location 6. Write that down in the Transit from box.
+
+Now, say our first location is location 3. Write that down in the transit to box.
+
+Grab your lookup table and look up the drive time from location 6 to location 3. What is the drive time? Call it out.
+
+The drive time is XX minutes.
+
+What's our bogey time? XX minutes.
+
+So we have our start time, plus the drive time, plus the bogey time. What time should we be arriving at our first location?
+
+XX:XX
+
+If we are given YY minutes to set up our station before check in and a ZZ minute checkin window, what is the beginning of our check in window?
+
+When does the checkin window end?
+
+So lets say we are within our window, and we check in with net control, we successfully authenticate, and they give us an OK time of <authetication time>. And a task Bravo.
+
+I open up task bravo, and it tells me I have 10 minutes.
+
+Now I have the authentication time and we have a limit on our task. We have until XX time to complete.
+
+Lets say we complete the task on time and we can then respond at any time before the time limit.
+
+Net control says our task response was good at XX time. 
+
+Now we add our takedown time , and we understand our finish time. This is the seed time for the next station.
 Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 

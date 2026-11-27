@@ -66,31 +66,31 @@ Choose a channel where you will call net control and complete your check-in with
 
 **Net Control:** “Roger, Team QRM, please authenticate three-eight.”
 
-<img src="instructions_08.png" alt="Logo" width="800">
+<img src="/media/instructions_08.png" alt="Logo" width="800">
 
 Now look down on row 3, and over to column 8. Respond with the indicated letter.
 
-<img src="instructions_09.png" alt="Logo" width="800">
-<img src="instructions_10.png" alt="Logo" width="800">
+<img src="/media/instructions_09.png" alt="Logo" width="800">
+<img src="/media/instructions_10.png" alt="Logo" width="800">
 
 **Team:** “Net control, Team QRM authenticates Whiskey.”
 
-**Net Control:** “Team QRM good authentication at 09:14, your task is Bravo.”
+**Net Control:** “Team QRM good authentication at 09:14, Net Control GML, your task is Bravo.”
 
-**Team:** “Good authentication at 09:14, our task is Bravo.”
+**Team:** “Good authentication at 09:14, Net control GML, our task is Bravo.”
 
 **Net Control:** “All correct, net control out.”
 
 **Team:** “All correct, Team QRM out.”
 
-<img src="instructions_11.png" alt="Logo" width="800">
+<img src="/media/instructions_11.png" alt="Logo" width="800">
 
 Copy the OK time into the box between the check-in section and the task section.
 
 ### Task
 Among your task envelopes, locate the envelopes for your current location and the task indicated by net control. Only open the correct envelope. Teams must turn unused and unopened envelopes back in to net control or will be penalized.
 
-<img src="instructions_12.png" alt="Logo" width="800">
+<img src="/media/instructions_12.png" alt="Logo" width="800">
 
 Remove the paper inside and record the task duration and determine your response window. Search the local area for the answer and reply to net control within that window. Use the following script as a guide to communicate with net control.
 
@@ -104,21 +104,21 @@ Remove the paper inside and record the task duration and determine your response
 
 **Team:** “Net control, Task Bravo response is New Franklin, MO.”
 
-**Net Control:** “Net control acknowledges Bravo response New Franklin, MO as correct from Team QRM at 09:31. Your next location is 40, Four-Zero.”
+**Net Control:** “Net control acknowledges Bravo response New Franklin, MO as correct from Team QRM at 09:31, net control GML. Your next location is 40, Four-Zero.”
 
-**Team:** “Response is correct at 09:31. Next location is 40, Four-Zero.”
+**Team:** “Response is correct at 09:31, net control GML. Next location is 40, Four-Zero.”
 
 **Net Control:** “All correct, net control out.”
 
 **Team:** “All correct, Team QRM out.”
 
-<img src="instructions_13.png" alt="Logo" width="800">
+<img src="/media/instructions_13.png" alt="Logo" width="800">
 
 ### Pack Up
 
 With the OK time from net control and the pack up time in your packet, calculate the end time of the stage. The end time of the stage can then be copied to the beginning time on the next stage sheet.
 
-<img src="instructions_14.png" alt="Logo" width="800">
+<img src="/media/instructions_14.png" alt="Logo" width="800">
 
 Now you can pack up your station and clean up any trash or other materials. Be sure to leave the area better than you found it!
 

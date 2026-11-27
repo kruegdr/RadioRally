@@ -300,9 +300,18 @@ If you set up a mobile HQ be sure you have plenty of solar, battery, or generato
 * Remind everyone of the basic event description
 * Remind everyone of sportsmanlike conduct / 
 
-### Safety 
+### Safety
+#### Be approachable
+Look out for one another and be approachable if your teammate thinks you might be doing something unsafe.
+
+#### Weather
+Share the weather forecast and its potential impact on the event.
+
 #### Walking / Path of Travel
+Put your eyes where you're going to put your feet. Don't get out of your vehicle without checking your surroundings.
+
 #### Ascending / Descending
+Use extra caution if you're going up or down a steep slope or stepping up or down from your truck tailgate.
 #### Line of Fire / Release of Energy
 #### Driving Safety
 #### RF Safety

@@ -61,7 +61,11 @@ In the example below, this single view from a street view shows at least three s
 
   With your edited list of OL's, take time to visit your OL's in person. Walk around and snap photos of the area with a particular interest of things that cannot be readily seen from street-view. Snap overall photos for general context, and snap detailed photos of signs, objects, and anything else that may be useful for for planning competitor tasks.
   
-  Do not go below 50 operating locations per 1,000 sq miles. 50 locations provides just enough uncertainty for participants on where they will operate. 50 locations also provides for a capacity of about eight teams without duplicating locations. Add more sites if they provide a good radio, trivia, or geographic challenge. Add more sites if you wish to host more than eight teams. Do not exceed 70-80 operating locations per 1,000 sq miles, as managing the data and tasks for the event become burdensome at that level.
+**4. Finalize your OL's**
+
+Keep track of all OL's in a working copy of the spreadsheet. Plug in your final options into the sheet and scrub, clean, and validate your data.
+
+Do not go below 50 operating locations per 1,000 sq miles. 50 locations provides just enough uncertainty for participants on where they will operate. 50 locations also provides for a capacity of about eight teams without duplicating locations. Add more sites if they provide a good radio, trivia, or geographic challenge. Add more sites if you wish to host more than eight teams. Do not exceed 70-80 operating locations per 1,000 sq miles, as managing the data and tasks for the event become burdensome at that level.
 
 When your OL's are confirmed and locked in, you will need to calculate the drive time between each location. This can be as simple as manually entering in two coordinates in Google Maps and copying the result, there are spreadsheet formulas that make use of the Google Maps API, or you might leverage AI to calculate the drive times between locations. This step is tedious, but you only have to do it once or when you re-design your event.
 
@@ -70,9 +74,11 @@ When your OL's are confirmed and locked in, you will need to calculate the drive
 ### Channels and Modes
 Select three channels that are accessible, of interest, and present a reasonable challenge to participants. Select modes that can challenge participants and are reasonably within capabilities of your participants. 
 
-* Primary : Most challenging.
-* Alternate : Moderate challenge.
-* Contingent : Least challenge. Usually uses a repeater.
+|  Channel    |  Challenge   |  Examples  |
+| ---------   | -----------  | ---------- |
+|  Primary    |   Highest    | UHF simplex, new data modes, lesser used bands |
+|  Alternate  |   Medium     | VHF simplex, established data modes |
+|  Contingent |   Lowest     | Repeaters |
 
 For example, if a club is trying to promote DMR, make DMR the mode for the primary channel. Alternate modes might consist of something like simplex, which could be a challenge at longer distances from the HQ. Teams may need to employ directional antennas or find a nearby hill to make contact from. Contingent channels should be the easiest to access. A good default for the contingent channel is the club repeater.
 

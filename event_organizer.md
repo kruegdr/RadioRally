@@ -33,7 +33,7 @@ Example, if an event was selected to include clubs from Columbia, MO and Jeffers
 
 Example, the Douglas County ARC events have some interesting locations just outside the county, and the east-west and north-south highways allow for further reach in those directions.
 
-<img src="/media/area_of_operations.png" alt="AO Boundary Example" width="900">
+<img src="/media/area_of_operations.png" alt="AO Boundary Example" width="700">
 
 ### Operating Locations
 **1. Draft a list of operating locations (OL)**

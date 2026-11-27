@@ -134,6 +134,8 @@ For each location, a team must check in within their calculated communications w
 ### Competitor Tasks
 For each location, have a minimum of four possible tasks that can be completed by teams. More variety is better. Tasks should fall under the following categories: observation, measurement, retrieval, and communications. Entire events or tasks may be themed by local history, culture, a time of year, or a holiday. For example, an area may have a significant place in Cold War history, Civil War history, or other events. Assign a time to complete each ask. Be sure to give extra time in consideration of those who will be seeing this task for the first time.
 
+Enter all tasks and all answers into the spreadsheet. When it is time to print out competitor materials, there is a tab on spreadsheet to make printing easier. Place tasks in small envelopes, preferably 3x5 inch envelopes.
+
 #### Observation
 Observation tasks require a team to carefully observe their surroundings and report on their findings.
 
@@ -214,7 +216,6 @@ Measurement tasks require a team to physically interact with something in their 
 
 > "Using the provided sensor, transmit to net control the water temperature in degrees Celsius and the time of your measurement." (14 C at 12:59 local time)
 
-
 #### Communication
 Communication tasks require a team to handle complex information or retrieve information from another source.
 
@@ -263,9 +264,13 @@ Create a short and impactful email to easily send and forward. Create a JPG or P
 
 Announce your interest and intent to your local club through a verbal announcement at a monthly club meeting. Ask the membership if they have interest and are willing to support or participate in such an event. Don't forget to solicit help for net control! At least two net control operators are required. Three or four are preferred.
 
+**_Make your announcement brief and bright!_**
+
 #### Initial Announcement to Club
 
 Once you have your initial event information, send an announcement out to your local club and be sure to include a link for registration. Ask for participation, and if someone wants to gather a team but cannot find teammates, to contact you directly. Help team members pair up when possible.
+
+**_Make your email announcement as brief and impactful as possible. Let the website convey most of the details._**
 
 #### Expand Reach
 

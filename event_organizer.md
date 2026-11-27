@@ -290,9 +290,16 @@ When laying out the net control table, be sure to have the same time cards handy
 
 If you set up a mobile HQ be sure you have plenty of solar, battery, or generator power to last the entire day. Use a program like Radio Mobile to simulate the radio links between your station and your operating locations. Make the link a challenge, but don't make it too hard.
 
-###
-
 ## Briefing
+### Welcome
+Greet your teams, do introductions, remind everyone of the basic event description.
+
+### Safety 
+#### Walking / Path of Travel
+#### Ascending / Descending
+#### Line of Fire / Release of Energy
+#### Driving Safety
+#### RF Safety
 
 ## Net Control and HQ Setup
 

@@ -211,7 +211,7 @@ Use your radio to relay information from another station
 
 > "Near this location is an AX.25 packet bulletin board operating on 146.400 MHz. Use a packet application of your choice to connect to the bulletin board and access message 137 for further instructions." 
 
-### Secure HQ Location
+### Set HQ Location
 
 Plan for a primary HQ location and a backup HQ location from your list of operating locations. Secure any registration or reservations as early as practical. An HQ location could be a rented building at the fairgrounds or a shelter at a local park. Select an HQ that is within or close to the core of your AO. Survey the HQ location for suitability of setting up antennas and hosting all participants for the briefing and debriefing. Be sure to have suitable restroom facilities as well.
 

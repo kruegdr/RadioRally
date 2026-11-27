@@ -40,6 +40,8 @@ Example, the Douglas County ARC events have some interesting locations just outs
   
   Within the AO, develop a draft list of operating locations. If you are a team of organizers, create your list in a shared Google Earth space so everyone can contribute. Have a good balance of familiar locations (larger parks and public areas) and lesser known locations (roadside and rural parks). Make sure your draft list has 70-90 locations. Several of these will be culled down to a final list. 
 
+<img src="/media/area_of_operations_OL1.jpg" alt="Operating Locations" width="500">
+
 Name your operating locations with a 3-letter city/town prefix. For example:
 
 * DES City Park = Desoto City Park

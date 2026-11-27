@@ -135,7 +135,7 @@ For each location, have a minimum of four possible tasks that can be completed b
 #### Observation
 Observation tasks require a team to carefully observe their surroundings and report on their findings.
 
-**Read signage**
+**Observation: Read signage**
 
 > "According to the historical marker nearby, who was the last serving postmaster of the town? (J.T. McMillan)
 
@@ -145,7 +145,7 @@ Observation tasks require a team to carefully observe their surroundings and rep
 
 > "At this location is a bulletin board, and a unique club flyer is posted on the board. On the back of the flyer is a question from the current technician class exam pool.  
 
-**Counting**
+**Observation: Counting**
 
 > "At this location, there is a picnic shelter. How many picnic tables are under the shelter?" (Eight Picnic Tables)
 
@@ -153,7 +153,13 @@ Observation tasks require a team to carefully observe their surroundings and rep
 
 > "Northeast of this location there is a radio tower adjacent to the water tower. On the radio tower, how many directional antennas are mounted to the tower?" (2 - two)
 
-**Colors**
+**Observation: Activity**
+
+> "Across the street from this location, there is an industrial site. What is the name of the business and what general activity happens at the site?"
+
+> "Near your location is the KLWC airport. For the next 10 minutes, use ADS-B data to identify any aircraft operating below 5,000 feet altitude, north of the Kansas River, and within the boundary of Douglas County, KS. Respond to net control within the 5 minutes immediately after the observation period."
+
+**Observation: Colors**
 
 > "At the intersection of Danforth and Pape, what colors make up the logo of the business in the northwest quadrant of the intersection? (Orange, Brown, and White)"
 
@@ -161,7 +167,7 @@ Observation tasks require a team to carefully observe their surroundings and rep
 
 > "Looking west from the 3rd street railroad crossing, there is a circular sign along the tracks with the letter "D" encircled. What colors are used on that sign? (Purple and white)
 
-**Orientation and Placement**
+**Observation: Orientation and Placement**
 
 > "At historic building at this location, which compass direction does the front porch face?" (South)
 

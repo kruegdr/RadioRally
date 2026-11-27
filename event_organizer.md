@@ -300,6 +300,8 @@ When laying out the net control table, be sure to have the same time cards handy
 If you set up a mobile HQ be sure you have plenty of solar, battery, or generator power to last the entire day. Use a program like Radio Mobile to simulate the radio links between your station and your operating locations. Make the link a challenge, but don't make it too hard.
 
 ## Briefing
+Schedule your briefing to begin no less than 30 minutes before the official start time.
+
 ### Welcome
 * Greet your teams
 * Lead with enthusiasm - expect a fun time

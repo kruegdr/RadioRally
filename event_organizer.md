@@ -160,7 +160,7 @@ Retrieval tasks are similar to geo-caching.
 
  
 #### Measurement
-Measurement tasks require a team to physically interact with something in their surroundings. A measurement might require a tape measure, inclinometer, or other tool. Organizers may elect to provide the tool or have the teams provide their own.
+Measurement tasks require a team to physically interact with something in their surroundings. A measurement might require a tape measure, inclinometer, or other tool. Organizers may elect to provide the tool or have the teams provide their own. Club may choose to have a build night for a weather station a month prior to the rally and use it for the rally.
 
 **Distance, Long**
 

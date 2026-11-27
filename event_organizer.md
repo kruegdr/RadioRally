@@ -123,7 +123,7 @@ Example:
 - A 1 x 3 event consists of one operating location and three tasks to perform at the operating location at various times during the event.
 - A 2 x 2 event consists of two operating locations and two tasks to perform while at a given operating location. Tasks are to be performed at different times per the event's instructions.
 
-If you're not sure how to structure an event, start with a county-wide 3 x 1 event.
+**_If you're not sure how to structure an event, start with a county-wide 3 x 1 event._**
 
 ### Check In
 

@@ -8,7 +8,7 @@ This section is for resources for event organizers. Organizers should have redun
 Use the [event planning spreadsheet](./radio_rally_planning.ods) to plan your operating locations, authentication tables, tasks, and scoring the event. (LibreOffice ODS file)
 
 ## Planning
-Note, planning on the front end for your first event will take some time, but once your area of operations and your operating locations are set, you will spend much less time planning subsequent events. Consider it an investment in the club!
+Planning an event takes some legwork on the front-end, but it is time well invested. Once your area of operations and your operating locations are set, you will spend much less time planning subsequent events. Consider it an investment in the club!
 
 If you have not planned an event before, give yourself 6-12 months of planning time. This will let you do your planning in small, digestible chunks, and not have a panic a month before the event is scheduled. Once you have a list of operating locations and basic tasks, you can shorten your planning window down to 2-4 months lead time.
 

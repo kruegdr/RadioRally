@@ -69,7 +69,7 @@ Do not go below 50 operating locations per 1,000 sq miles. 50 locations provides
 
 When your OL's are confirmed and locked in, you will need to calculate the drive time between each location. This can be as simple as manually entering in two coordinates in Google Maps and copying the result, there are spreadsheet formulas that make use of the Google Maps API, or you might leverage AI to calculate the drive times between locations. This step is tedious, but you only have to do it once or when you re-design your event.
 
-<img src="operating_locations.png" alt="Logo" width="800">
+<img src="/media/operating_locations.png" alt="Compiled operating locations" width="800">
 
 ### Channels and Modes
 Select three channels that are accessible, of interest, and present a reasonable challenge to participants. Select modes that can challenge participants and are reasonably within capabilities of your participants. 

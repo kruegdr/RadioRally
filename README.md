@@ -3,6 +3,8 @@
 # Radio Rally
 Radio Rally is a field operating event for a local or regional area designed to test and develop radio, geography, and information handling skills for all types of operators.
 
+Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 
+
 11/27/2026 Note : Lots up updates and changes to organizer information, so please be patient as I iron some of them out.
 
 Keep scrolling to read the brief description of the event. If you need to jump to more detail, here's the quick links: 
@@ -12,9 +14,9 @@ Keep scrolling to read the brief description of the event. If you need to jump t
 [Competitor details](detailed_instructions.md)
 
 # Intro 
-Radio Rally was developed over 2025 and 2026 by Darrell Krueger, KI4RXJ, as a fun and friendly team competition incorporating elements of amateur radio contests, portable operating, time-speed-distance (TSD) rallying, and emergency communications. Events are designed to be run by local radio clubs and can be easily scaled by time, geography, and radio license class.
+Radio Rally was developed over 2025 and 2026 by Darrell Krueger, KI4RXJ, as a fun and friendly team competition incorporating elements of amateur radio contests, portable operating, emergency communications, and time-speed-distance (TSD) rallying. Events are designed to be run by local radio clubs and can be easily scaled by time, geography, equipment, and radio license class.
 
-Radio Rally was inspired by the RaDAR concept created by ZS6BNE in South Africa and promoted in the USA by N4KGL and other similar events by K8DC & K8DCL and N3ID & K3DI.
+Radio Rally was inspired by the RaDAR concept created by ZS6BNE in South Africa and promoted in the USA by N4KGL and other similar events by K8DC & K8DCL and N3ID & K3DI. This project builds on those concepts and provides full documentation to allow local clubs to easily customize events for their needs.
 
 Radio Rally challenges operators in the following ways:
 
@@ -27,8 +29,6 @@ Radio Rally challenges operators in the following ways:
 - **Accuracy and Clarity**: Radio Rally challenges operators' accuracy and clarity in communication. The correct response may look or sound similar to other incorrect responses, or the response may be a tongue-twister and a challenge to speak clearly over the air.
 
 - **Teamwork**: Finally, Radio Rally encourages teamwork. Teams are a great way to pool resources, share information, and make connections between more experienced and less experienced operators.
-
-Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 
 
 # Operation
 Continue scrolling down for a brief description of the event operation.

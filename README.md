@@ -1,4 +1,4 @@
-<img src="Logo_RadioRally_Positive.png" alt="Logo" width="500">
+<img src="/media/Logo_RadioRally_Positive.png" alt="Logo" width="500">
 
 # Radio Rally
 Radio Rally is a field operating event for a local or regional area designed to test and develop radio, geography, and information handling skills for all types of operators.
@@ -52,7 +52,7 @@ Events should be announced with a minimum of one to two months lead time. The ev
 ## Preparation
 Form your team, register with the organizer, and begin studying the operating area. Assess your equipment and compare to the operating modes needed for the event. Compare the operating locations to the location of the HQ and get a sense for how difficult it could be to make contact on the channels specified by the organizer. Teams are free to visit any operating location ahead of the event, but will not know their specific operating locations until they are assigned at the event briefing.
 
-<img src="area_of_operations.png" alt="Logo" width="500">
+<img src="/media/area_of_operations.png" alt="Logo" width="500">
 
 ## Briefing
 At the team briefing, the event organizer reviews the structure and rules of the event with the teams. Teams are provided a packet of operating information containing necessary information to successfully complete the event. Approximately 10-15 minutes before the official start time, each team is provided their unique list of operating locations.
@@ -69,9 +69,9 @@ In their time window, teams contact net control on one of the official event rad
 ## Task
 During check-in, net control indicates which task a team should perform at their location. Teams open the appropriate sealed envelope from their packet to reveal a simple scavenger-hunt-like task. Also given is an allotted time window to complete the task. Teams execute the task and respond to net control within their window. Late responses earn less points than on-time responses. Upon communicating their task, net control will give an official time and the team's next operating location.
 
-<img src="instructions_12.png" alt="Logo" width="500">
+<img src="media/instructions_12.png" alt="Logo" width="500">
 
-<img src="new_franklin.png" alt="Logo" width="300">
+<img src="media/new_franklin.png" alt="Logo" width="300">
 
 ## Take-down
 After the task response is communicated to net control, teams are allotted time for takedown of their station. This allotted time is used to determine the departure time to seed the begin time of the transit to the next location. This process repeats for each stage until the last stage, when teams return to the event headquarters.

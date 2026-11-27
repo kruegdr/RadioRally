@@ -4,6 +4,7 @@
 This section is for resources for event organizers. Organizers should have redundancies in nearly every area to ensure smooth event operation.
 
 (note this file will change soon. please only use as reference for now)
+
 Use the [event planning spreadsheet](./radio_rally_planning.ods) to plan your operating locations, authentication tables, tasks, and scoring the event. (LibreOffice ODS file)
 
 ## Planning

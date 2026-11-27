@@ -17,6 +17,8 @@ If you have not planned an event before, give yourself 6-12 months of planning t
 
   Select small core area in the center of your planned area of operations. It should take no more than 5-10 minutes to travel from one side of your core area to the other. This will likely be the location of most of your base location / headquarters (HQ). This core might be the center of your city, the center of your county, or a logical space between two towns.
 
+  <add images>
+
 **2. Define the boundary of your AO.**
   
   Mark a boundary of your AO such that it balances drive time with radio time. Generally this is about 20-25 minutes of travel time in any direction. If there are excellent operating locations within a couple of extra minutes of the boundary, extend the boundary, but only if the competitors get a better experience. Note: Your AO may turn into a very interesting shape depending on the roads or trails in the area.

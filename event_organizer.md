@@ -302,7 +302,6 @@ If you set up a mobile HQ be sure you have plenty of solar, battery, or generato
 * Recognize any newly licensed hams or recent upgrade licenses.
 * Thank everyone for spending their time to participate
 * Remind everyone of the basic event description
-* Remind everyone of sportsmanlike conduct / 
 
 ### Safety
 #### Be approachable
@@ -316,9 +315,15 @@ Put your eyes where you're going to put your feet. Don't get out of your vehicle
 
 #### Ascending / Descending
 Use extra caution if you're going up or down a steep slope or stepping up or down from your truck tailgate.
+
 #### Line of Fire / Release of Energy
+Use caution when opening and closing doors and handling electrical connections.
+
 #### Driving Safety
+Drive defensively, use your mirrors, obey the speed limit, you will have plenty of time to arrive and complete your task. Don't drive distracted.
+
 #### RF Safety
+Locate antennas a sufficient distance from people. Be sure you have good grounding and bonding. Use the minimum power necessary to make contact. Do not handle coax or disconnect coax connectors while transmitting.
 
 ## Net Control and HQ Setup
 

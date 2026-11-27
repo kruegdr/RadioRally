@@ -355,6 +355,9 @@ Each team will have one authentication table. This is unique to your team. Do no
 #### Survey
 You have four survey sheets. Be sure each team member fills out a survey when you get back to HQ later. This is critical to continuous improvement of the event.
 
+### Extras
+Some events may require extra materials like maps, reference sheets, measurement tools, nomograms, or other bits required for the event.
+
 #### Dope Card
 The dope card is a reference to use when calculating your times. We use this to make adjustments to times based on weather, traffic, and other things that may change on the day of the event. Lets go over the dope card right now.
 

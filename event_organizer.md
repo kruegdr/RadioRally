@@ -327,7 +327,7 @@ Locate antennas a sufficient distance from people. Be sure you have good groundi
 
 ### Packet Orientation
 
-Hand out the team packets and review the contents.
+Hand out the team packets and review the contents. Every team must return their packet at the end of the event!
 
 #### Script
 Here is the script to use when communicating with net control. You do not have to recite this script perfectly to get your responses into net control.
@@ -336,7 +336,7 @@ Here is the script to use when communicating with net control. You do not have t
 This is a table with the frequencies and modes used during the event. The primary channel is the most difficult, but gets you the most points. The alternate channel is a little easier, but gets less points, and the contingent channel is the easiest but gets the least points.
 
 #### Task Envelopes
-You have an envelope of envelopes. The small envelopes have a number on them which corresponds with your operating location
+You have an envelope of task envelopes. The small envelopes have a number on them which corresponds with your operating location. Each operating location will have at least 4 letters (Alpha, Bravo, Charlie, etc). Do not open these envelopes until we give you your task. You will have to turn in all materials at the end of the event. If you turn it missing or too many opened envelopes, you will be penalized. 
  
 
 #### Table of Operating Locations and Drive Times

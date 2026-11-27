@@ -364,4 +364,9 @@ The last thing on your dope card is your first location. <read out each team's f
 Double check that the first location number we gave you matches your task envelopes. 
 
 Lets confirm your locations. Go over each team and have them read back and confirm their operating locations.
+
+### Practice Time Card
+Let's do a practice time card. Take out one of your time cards. You should have enough left to do the event. Raise your hand if you need another one. We are all going to do the same information.
+
+When we are done, I'll give you the official start time, but for this example, write down 09:00.
 Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 

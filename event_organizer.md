@@ -292,7 +292,13 @@ If you set up a mobile HQ be sure you have plenty of solar, battery, or generato
 
 ## Briefing
 ### Welcome
-Greet your teams, do introductions, remind everyone of the basic event description.
+* Greet your teams
+* Lead with enthusiasm - expect a fun time
+* Do introductions
+* Recognize any newly licensed hams or recent upgrade licenses.
+* Thank everyone for spending their time to participate
+* Remind everyone of the basic event description
+* 
 
 ### Safety 
 #### Walking / Path of Travel

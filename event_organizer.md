@@ -1,4 +1,4 @@
-<img src="Logo_RadioRally_Positive.png" alt="Logo" width="500">
+<img src="/media/Logo_RadioRally_Positive.png" alt="Logo" width="500">
 
 # Event Organizing
 This section is for resources for event organizers. Organizers should have redundancies in nearly every area to ensure smooth event operation.

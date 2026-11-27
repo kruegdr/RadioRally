@@ -231,7 +231,7 @@ Announce your interest and intent to your local club through a verbal announceme
 
 Once you have your initial event information, send an announcement out to your local club and be sure to include a link for registration. Ask for participation, and if someone wants to gather a team but cannot find teammates, to contact you directly. Help team members pair up when possible.
 
-#### Expanded Announcement
+#### Expand Reach
 
 Give your club members a week or so head start to register before you announce the event to a broader distribution list. If this is an official club event, give the club members an exclusive window to register. Once this period is over, announce the event to adjacent clubs in your region. Also announce the event regional email lists, contest lists, and the ARRL calendar. Talk about the event on bulletin boards and Discord servers.
 

@@ -277,6 +277,7 @@ Team Packets must include:
 * Blank time cards, including one extra
 * Authentication table, unique to each team.
 * An envelope of sealed, smaller task envelopes
+* Extras as required (Maps, reference sheets, etc)
 
 ### Prizes
 

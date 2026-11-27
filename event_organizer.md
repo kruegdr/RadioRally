@@ -110,7 +110,7 @@ If you're not sure how to structure an event, start with a county-wide 3 x 1 eve
 For each location, a team must check in within their calculated communications window. Teams do not have to be exactly at the location for successful check in, but the important thing is that they check in on time. To ensure net control is speaking with the correct team, each team is issued a unique authentication table at the beginning of the event. Organizers are free to select other means of authentication, however an authentication table is usually the easiest. Use the planning spreadsheet to generate an authentication table. Copy-and paste the table as an image into the information packet for the teams.
 
 ### Competitor Tasks
-For each location, have a minimum of four tasks that can be completed by teams. More variety is better. Tasks should fall under the following categories: observation, measurement, retrieval, and communications. Tasks may be themed by local history or culture. For example, an area may have a significant place in Cold War history, Civil War history, or other events. Assign a time to complete each ask. Be sure to give extra time in consideration of those who will be seeing this task for the first time.
+For each location, have a minimum of four tasks that can be completed by teams. More variety is better. Tasks should fall under the following categories: observation, measurement, retrieval, and communications. Entire events or tasks may be themed by local history, culture, a time of year, or a holiday. For example, an area may have a significant place in Cold War history, Civil War history, or other events. Assign a time to complete each ask. Be sure to give extra time in consideration of those who will be seeing this task for the first time.
 
 #### Observation
 Observation tasks require a team to carefully observe their surroundings and report on their findings.
@@ -122,6 +122,8 @@ Observation tasks require a team to carefully observe their surroundings and rep
 > "At this location, there is a sign indicating the operator of the quarry. What is the telephone number of the quarry office? (785-555-3182)
 
 > "At this location is a bulletin board, and a unique club flyer is posted on the board. What phrase is printed at the bottom of the flyer?" ("Keeping the "fun" in Ham Radio")
+
+> "At this location is a bulletin board, and a unique club flyer is posted on the board. On the back of the flyer is a question from the current technician class exam pool.  
 
 **Counting**
 
@@ -153,6 +155,8 @@ Retrieval tasks are similar to geo-caching.
 > "At your location there is a bulletin board with a flyer advertising an interocitor for sale, manufactured by Supreme Electronics Service. Retrieve one of the tags from the bottom of the flyer and return to net control at the end of the event to get full points. Respond to net control with the angle of the intensifier disc." (18 degrees)
 
 > "Attached to the perimeter fence at your location is a Master combination lock with a brass body and a Radio Rally tag. Respond to net control with the lock ID number. Net control will respond with the lock combination. Retrieve this lock and return to net control for full points."
+
+> "Approximately one block west from your location is a volunteer fire station. Go to the fire station and ask for the Radio Rally envelope. If the firefighters are on call, they will leave it taped to the door. Retrieve the packet and follow instructions." (In the envelope is the question: "Technician class license holders may operate on 40-meters between 7.025 MHz and 7.125 MHz, but only on one mode. Which mode is permitted for technicians here?") ( Answer: CW ) 
 
  
 #### Measurement

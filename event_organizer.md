@@ -150,6 +150,10 @@ Observation tasks require a team to carefully observe their surroundings and rep
 #### Retrieval
 Retrieval tasks are similar to geo-caching.
 
+> "At your location there is a bulletin board with a flyer advertising an interocitor for sale, manufactured by Supreme Electronics Service. Retrieve one of the tags from the bottom of the flyer and return to net control at the end of the event to get full points. Respond to net control with the angle of the intensifier disc." (18 degrees)
+
+> "Attached to the perimeter fence at your location is a Master combination lock with a brass body and a Radio Rally tag. Respond to net control with the lock ID number. Net control will respond with the lock combination. Retrieve this lock and return to net control for full points."
+
  
 #### Measurement
 Measurement tasks require a team to physically interact with something in their surroundings. A measurement might require a tape measure, inclinometer, or other tool. Organizers may elect to provide the tool or have the teams provide their own.

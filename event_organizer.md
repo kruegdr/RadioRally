@@ -19,7 +19,7 @@ If you have not planned an event before, give yourself 6-12 months of planning t
 
 Example, if an event was selected to include clubs from Columbia, MO and Jefferson City, MO, the organizers might look for several locations around Ashland, MO to serve as a headquarters.
 
- <img src="/media/area_of_operations_core1.jpg" alt="AO Example" width="500">
+ <img src="/media/area_of_operations_core1.jpg" alt="AO Core Example" width="500">
 
 **2. Define the boundary of your AO.**
   
@@ -31,7 +31,9 @@ Example, if an event was selected to include clubs from Columbia, MO and Jeffers
 
 * City-wide events with HT's or low power radios are approximately 100 square miles, or 10 miles x 10 miles or smaller. Try to keep city-wide events with no more than 10 to 15 minutes of travel time between locations.
 
-<img src="area_of_operations.png" alt="Logo" width="900">
+Example, the Douglas County ARC events have some interesting locations just outside the county, and the east-west and north-south highways allow for further reach in those directions.
+
+<img src="/media/area_of_operations.png" alt="AO Boundary Example" width="900">
 
 ### Operating Locations
 **1. Draft a list of operating locations (OL)**

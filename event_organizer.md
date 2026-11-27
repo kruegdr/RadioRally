@@ -298,7 +298,7 @@ If you set up a mobile HQ be sure you have plenty of solar, battery, or generato
 * Recognize any newly licensed hams or recent upgrade licenses.
 * Thank everyone for spending their time to participate
 * Remind everyone of the basic event description
-* 
+* Remind everyone of sportsmanlike conduct / 
 
 ### Safety 
 #### Walking / Path of Travel

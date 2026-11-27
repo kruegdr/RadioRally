@@ -5,6 +5,12 @@ Radio Rally is a field operating event for a local or regional area designed to 
 
 11/27/2026 Note : Lots up updates and changes to organizer information, so please be patient as I iron some of them out.
 
+Keep scrolling to read the brief description of the event. If you need to jump to more detail, here's the quick links: 
+
+[Event organizer details](event_organizer.md)
+
+[Competitor details](detailed_instructions.md)
+
 # Intro 
 Radio Rally was developed over 2025 and 2026 by Darrell Krueger, KI4RXJ, as a fun and friendly team competition incorporating elements of amateur radio contests, portable operating, time-speed-distance (TSD) rallying, and emergency communications. Events are designed to be run by local radio clubs and can be easily scaled by time, geography, and radio license class.
 

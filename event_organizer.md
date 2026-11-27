@@ -10,7 +10,7 @@ Use the [event planning spreadsheet](./radio_rally_planning.ods) to plan your op
 ## Planning
 Planning an event takes some legwork on the front-end, but it is time well invested. Once your area of operations and your operating locations are set, you will spend much less time planning subsequent events. Consider it an investment in the club!
 
-If you have not planned an event before, give yourself 6-12 months of planning time. This will let you do your planning in small, digestible chunks, and not have a panic a month before the event is scheduled. Once you have a list of operating locations and basic tasks, you can shorten your planning window down to 2-4 months lead time.
+If you have not planned an event before, give yourself 6-12 months of planning time. This will let you do your planning in small, digestible chunks, and not have a panic a month before the event is scheduled. Once you have a list of operating locations and basic tasks, you can shorten your planning window down to 2-4 months lead time and still be able to work on the event in small chunks.
 
 ### Area of Operations
 **1. Define a core area for your area of operations (AO)**.

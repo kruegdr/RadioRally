@@ -235,7 +235,7 @@ Once you have your initial event information, send an announcement out to your l
 
 Give your club members a week or so head start to register before you announce the event to a broader distribution list. If this is an official club event, give the club members an exclusive window to register. Once this period is over, announce the event to adjacent clubs in your region. Also announce the event regional email lists, contest lists, and the ARRL calendar. Talk about the event on bulletin boards and Discord servers.
 
-### Registration
+### Team Registration
 
 Set up an online form such as Google Forms to capture registration information. Remember, at least one team member must be a licensed amateur if using any amateur frequency.
 

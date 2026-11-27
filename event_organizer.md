@@ -15,7 +15,7 @@ If you have not planned an event before, give yourself 6-12 months of planning t
 ### Area of Operations
 **1. Define a central core area for your area of operations (AO)**.
 
-  Select small core area in the center of your planned area of operations. It should take no more than 5-10 minutes to travel from one side of your core area to the other. This will likely be the location of most of your base location / headquarters (HQ).
+  Select small core area in the center of your planned area of operations. It should take no more than 5-10 minutes to travel from one side of your core area to the other. This will likely be the location of most of your base location / headquarters (HQ). This core might be the center of your city, the center of your county, or a logical space between two towns.
 
 **2. Define the boundary of your AO.**
   

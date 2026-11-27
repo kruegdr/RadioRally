@@ -13,9 +13,9 @@ Planning an event takes some legwork on the front-end, but it is time well inves
 If you have not planned an event before, give yourself 6-12 months of planning time. This will let you do your planning in small, digestible chunks, and not have a panic a month before the event is scheduled. Once you have a list of operating locations and basic tasks, you can shorten your planning window down to 2-4 months lead time and still be able to work on the event in small chunks.
 
 ### Area of Operations
-**1. Define a core area for your area of operations (AO)**.
+**1. Define a central core area for your area of operations (AO)**.
 
-  Select small core area in the center of your planned area of operations. It should take no more than 5-10 minutes to travel from one side of your core area to the other.
+  Select small core area in the center of your planned area of operations. It should take no more than 5-10 minutes to travel from one side of your core area to the other. This will likely be the location of most of your base location / headquarters (HQ).
 
 **2. Define the boundary of your AO.**
   

@@ -53,6 +53,9 @@ Name your operating locations with a 3-letter city/town prefix. For example:
 
   Review all of your operating locations for suitability. Start your inspections with satellite imagery and street-view imagery. Evaluate basic accessibility, antenna clearances, open-hours, RF-environment, and options for competitor tasks.
 
+In the example below, this single view from a street view shows at least three signs to use for tasks, and it offers a large, open view across the dam and lake.
+<img src="/media/operating_location_street_view.jpg" alt="Operating Location Street View" width="500">
+
 **3. Edit your list of OL's in person**
 
   With your edited list of OL's, take time to visit your OL's in person. Walk around and snap photos of the area with a particular interest of things that cannot be readily seen from street-view. Snap overall photos for general context, and snap detailed photos of signs, objects, and anything else that may be useful for for planning competitor tasks.

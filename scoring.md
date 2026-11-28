@@ -1,4 +1,4 @@
-<img src="Logo_RadioRally_Positive.png" alt="Logo" width="500">
+<img src="media/Logo_RadioRally_Positive.png" alt="Logo" width="500">
 
 # Scoring
 

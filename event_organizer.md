@@ -442,4 +442,14 @@ Lets say we complete the task on time and we can then respond at any time before
 Net control says our task response was good at XX time. 
 
 Now we add our takedown time , and we understand our finish time. This is the seed time for the next station.
+
+# Event Scheduling and Coordination
+## Scheduling
+Avoid scheduling your event on the weekends of Summer Field Day and Winter Field Day, SET drills, or similar. Coordinate with other local clubs to make sure they don't already have an event scheduled that could diminish attendance. For example, if you have a local ham-fest in your region, perhaps schedule the event for the afternoon and let interested people attend the fest in the morning.
+
+## Regional Coordination
+If your region begins hosting Radio Rallies, set up a group to coordinate scheduling as to get the maximum impact and not overlap events.
+
+## Leagues / Series
+If your region hosts 8-10 events in a calendar year, consider forming a league. Teams must participate in at least half of the events to qualify for the championship. The champion is the team with the highest combined scores of all of the rallies they participated in during the calendar year.
 Radio Rally © 2026 by KI4RXJ Darrell Krueger is licensed under CC BY-NC-SA 4.0 

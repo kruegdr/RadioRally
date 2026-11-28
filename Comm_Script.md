@@ -32,7 +32,7 @@ Net control: “Net control answering, go ahead team <ins>calling team number</i
 
 Team: “Team <ins>your team number</ins> responding for Stage <ins>Current stage number</ins> at location <ins>Your assigned location number</ins>, task <ins>your assigned task</ins>.”
 
-Net control: “Roger team <ins>calling team number<ins>, ready to copy.”
+Net control: “Roger team <ins>calling team number</ins>, ready to copy.”
 
 Team: “Team <ins>your team number</ins>, Stage <ins>Current stage number</ins> at location <ins>Your assigned location number</ins>, task <ins>your assigned task</ins>, our response is <ins>your team response to the task</ins>.”
 

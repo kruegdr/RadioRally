@@ -15,7 +15,7 @@ Net Control: “Roger Team <ins>(*calling team number*)</ins>, please authentica
 
 Team: “Net Control, Team <ins>(*your team number*)</ins> authenticates <ins>(*your authentication response*)</ins>.”
 
-Net Control: “Team <ins>(*calling team number*)</ins>, good authentication at <ins>(*current time*)</ins> by <ins>(*net control operator initials*)</ins>, your task is <ins>(*assigned task by net control*)</ins>.”
+Net Control: “Team <ins>(*calling team number*)</ins>, good authentication at <ins>(*current time*)</ins> by <ins>(*net control operator initials*)</ins>, your task is <ins>(*task assigned by net control*)</ins>.”
 
 Team: “Roger, good authentication at <ins>(*authenticated time*)</ins> by <ins>(*net control operator initials*)</ins>, our task is <ins>(*your assigned task*)</ins>.”
 

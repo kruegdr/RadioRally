@@ -5,7 +5,7 @@
 Use this script to help efficiently communicate check-in's and task responses.
 
 ## Check In
-Team: “Radio Rally net control this is (* your callsign *) calling for Team (* your team number *).”
+Team: “Radio Rally net control this is *(your callsign)* calling for Team *(your team number)*.”
 
 Net control: “Net control answering, go ahead team (* calling team number *).”
 

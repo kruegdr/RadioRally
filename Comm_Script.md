@@ -5,22 +5,22 @@
 Use this script to help efficiently communicate check-in's and task responses.
 
 ## Check In
-Team: “Radio Rally net control this is <ins>*(your callsign)*</ins> calling for Team *(your team number)*.”
+Team: “Radio Rally net control this is <ins>*(your callsign)*</ins> calling for Team <ins>*(your team number)*</ins>.”
 
-Net control: “Net control answering, go ahead team (* calling team number *).”
+Net control: “Net control answering, go ahead team <ins>(*calling team number*)</ins>.”
 
-Team: “Team _(* your team number *)_ checking in for Stage _(* Current stage number *)_ at location _(* Your assigned location number *).”
+Team: “Team <ins>(*your team number*)</ins> checking in for Stage <ins>(*Current stage number*)</ins> at location <ins>(*Your assigned location number*)</ins>.”
 
-Net Control: “Roger Team _(* calling team number *)_, please authenticate _(* authentication challenge *)_.”
+Net Control: “Roger Team <ins>(*calling team number*)</ins>, please authenticate <ins>(*authentication challenge*)<ins>.”
 
-Team: “Net Control, Team _(* your team number *)_ authenticates _(* your authentication response* )_.”
+Team: “Net Control, Team <ins>(*your team number*)</ins> authenticates <ins>(*your authentication response*)</ins>.”
 
-Net Control: “Team _(* calling team number *)_, good authentication at _(* current time *)_ by _(* net control operator initials *), your task is _(* assigned task by net control *)_.”
+Net Control: “Team <ins>(*calling team number*)</ins>, good authentication at <ins>(*current time*)</ins> by <ins>(*net control operator initials*)</ins>, your task is <ins>(*assigned task by net control*)</ins>.”
 
-Team: “Roger, good authentication at _(* authenticated time *)_ by _(* net control operator initials *)_, our task is _(* your assigned task *)_.”
+Team: “Roger, good authentication at <ins>(*authenticated time*)</ins> by <ins>(*net control operator initials*)</ins>, our task is <ins>(*your assigned task*)</ins>.”
 
 Net control: “All correct, net control out.”
 
-Team: “All correct, Team _(* your team number *)_ out.”
+Team: “All correct, Team <ins>(*your team number*)</ins> out.”
 
 * NOTE FOR NET CONTROL: Use your initials or the last letters in your callsign after the number in your callsign.

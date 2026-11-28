@@ -24,3 +24,26 @@ Net control: “All correct, net control out.”
 Team: “All correct, Team <ins>(*your team number*)</ins> out.”
 
 * NOTE FOR NET CONTROL: Use your initials or the last letters in your callsign after the number in your callsign.
+
+##Task Response
+Team: “Radio Rally net control this is <ins>your callsign<ins>_ calling for Team <ins>your team number<ins>.”
+
+Net control: “Net control answering, go ahead team <ins>calling team number<ins>.”
+
+Team: “Team <ins>your team number<ins> responding for Stage <ins>Current stage number<ins> at location <ins>Your assigned location number<ins>, task <ins>your assigned task<ins>.”
+
+Net control: “Roger team <ins>calling team number<ins>, ready to copy.”
+
+Team: “Team <ins>your team number<ins>, Stage <ins>Current stage number<ins> at location <ins>Your assigned location number<ins>, task <ins>your assigned task<ins>, our response is <ins>your team response to the task<ins>.”
+
+Net control: “Roger, team <ins>calling team number<ins>, at location <ins>Your assigned location number<ins>, task <ins>your assigned task<ins>, your response is <ins>your team response to the task<ins>.”
+
+Team: “Roger net control, that is correct.”
+
+Net control: “All correct at <ins>current time<ins>. Team <ins>team number<ins> your next location is <ins>new location number<ins>.”
+
+Team: “Roger Net Control, all correct at <ins>time given by net control<ins>, next location is <ins>new location given by net control<ins>.”
+
+Net Control: “That is correct, net control out.”
+
+Team: “Team <ins>your team number<ins> out.”

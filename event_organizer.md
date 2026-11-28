@@ -443,7 +443,7 @@ Net control says our task response was good at XX time.
 
 Now we add our takedown time , and we understand our finish time. This is the seed time for the next station.
 
-# Event Scheduling and Coordination
+# Event Scheduling
 ## Scheduling
 Avoid scheduling your event on the weekends of Summer Field Day and Winter Field Day, SET drills, or similar. Coordinate with other local clubs to make sure they don't already have an event scheduled that could diminish attendance. For example, if you have a local ham-fest in your region, perhaps schedule the event for the afternoon and let interested people attend the fest in the morning.
 
